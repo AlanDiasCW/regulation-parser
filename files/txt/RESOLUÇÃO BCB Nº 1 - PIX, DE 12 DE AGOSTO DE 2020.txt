@@ -1,0 +1,1113 @@
+﻿RESOLUÇÃO BCB Nº 1, DE 12 DE AGOSTO DE 2020
+Institui o arranjo de pagamentos Pix e aprova o seu Regulamento.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 6 de agosto de 2020, com base no art. 10, inciso IV, da Lei nº 4.595, de 31 de dezembro de 1964, no art. 10 da Lei nº 10.214, de 27 de março de 2001, nos arts. 6º, 7º, 9º, 10, 14 e 15 da Lei nº 12.865, de 9 de outubro de 2013, na Resolução nº 4.282, de 4 de novembro de 2013, no Comunicado nº 32.927, de 21 de dezembro de 2018, e no Comunicado nº 34.085, de 28 de agosto de 2019,
+R E S O L V E :
+Art. 1º  Fica instituído o arranjo de pagamentos Pix.
+Art. 2º  Fica aprovado o Regulamento anexo, que disciplina o funcionamento do Pix.
+Art. 3º  A participação no Pix é obrigatória para as instituições financeiras e para as instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil com mais de quinhentas mil contas de clientes ativas, consideradas as contas de depósito à vista, as contas de depósito de poupança e as contas de pagamento pré-pagas.
+§ 1º  Para os fins desta Resolução, consideram-se contas de clientes ativas as contas de depósito à vista, as contas de depósito de poupança e as contas de pagamento pré-pagas não encerradas.
+§ 2º  As instituições financeiras e as instituições de pagamento autorizadas a funcionar pelo Banco Central do Brasil que superarem o limite de que trata o caput, após a entrada em vigor desta Resolução, terão prazo de 90 (noventa) dias para submeter ao Banco Central do Brasil solicitação de adesão ao Pix como provedor de conta transacional, nos termos do Regulamento anexo a esta Resolução.
+§ 3º  Além das instituições mencionadas no caput, fica facultada a adesão ao Pix:
+I - das demais instituições financeiras e instituições de pagamento que ofereçam as contas de que trata o § 1º;
+II - da Secretaria do Tesouro Nacional, na condição de ente governamental; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+III - das instituições de pagamento iniciadoras de transação de pagamento, nos termos da Resolução BCB nº 80, de 25 de março de 2021; (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+IV - das demais instituições autorizadas a funcionar pelo Banco Central do Brasil que possam prestar serviço de iniciação de transação de pagamento. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 4º  As instituições de pagamento que optarem por aderir ao Pix, na forma do inciso I do § 3º, e não se enquadrarem nos critérios previstos na regulamentação em vigor para serem autorizadas a funcionar pelo Banco Central do Brasil, serão consideradas integrantes do Sistema de Pagamentos Brasileiro (SPB) a partir do momento em que apresentarem pedido de adesão ao Pix.
+§ 5º  Enquanto não vierem a preencher os demais critérios previstos na regulamentação em vigor para serem autorizadas a funcionar pelo Banco Central do Brasil, aplicam-se às instituições de pagamento que integrarem o SPB exclusivamente em virtude de sua adesão ao Pix, na forma do § 4º:
+I - regulação mínima, abrangendo normas atinentes a:
+a) estrutura de gerenciamento de riscos operacional e de liquidez, conforme disposto na Circular nº 3.681, de 4 de novembro de 2013;
+b) política de segurança cibernética, plano de ação e de resposta a incidentes, contratação de serviços de processamento e armazenamento de dados e de computação em nuvem, conforme disposto na Circular nº 3.909, de 16 de agosto de 2018;
+c) política, procedimentos e controles internos visando à prevenção da utilização do sistema financeiro para a prática dos crimes de lavagem ou ocultação de bens, direitos e valores, de que trata a Lei nº 9.613, de 3 de março de 1998, e de financiamento do terrorismo, previsto na Lei nº 13.260, de 16 de março de 2016, conforme disposto na Circular nº 3.461, de 24 de julho de 2009, e, a partir de sua revogação, na Circular nº 3.978, de 23 de janeiro de 2020;
+d) procedimentos para a execução das medidas determinadas pela Lei nº 13.810, de 8 de março de 2019, que dispõe sobre o cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas, incluindo a indisponibilidade de ativos de pessoas naturais e jurídicas e de entidades, e a designação nacional de pessoas investigadas ou acusadas de terrorismo, de seu financiamento ou de atos a ele correlacionados, conforme disposto na Circular nº 3.942, de 21 de maio de 2019; e
+e) outras matérias que o Banco Central do Brasil vier a indicar; e
+II - supervisão proporcional baseada no risco.
+§ 6º  As instituições de pagamento com processo de autorização de funcionamento em análise pelo Banco Central do Brasil que optarem por aderir ao Pix, na forma do inciso I do § 3º, consideram-se integrantes do SPB, ficando sujeitas ao disposto no § 5º enquanto perdurar o processo de autorização.
+§ 7º  As instituições de pagamento de que trata o § 3º que já tenham apresentado pedido de adesão ao Pix e que não o cancelarem no prazo de 15 (quinze) dias serão consideradas integrantes do SPB, independentemente de autorização do Banco Central do Brasil, ficando imediatamente sujeitas ao disposto no § 5º.
+Art. 4º  Os processos e estruturas de governança do Pix devem garantir:
+I - a representatividade e a pluralidade de instituições e de segmentos participantes;
+II - o acesso não discriminatório; e
+III - a mitigação de conflitos de interesse.
+Art. 5º  O Fórum Pix é um comitê consultivo permanente que tem como objetivo subsidiar o Banco Central do Brasil na definição das regras e dos procedimentos que disciplinam o funcionamento do Pix.
+Art. 6º  O Fórum Pix é integrado por:
+I - participantes do arranjo, individualmente ou por meio de associações representativas de âmbito nacional;
+II - provedores e potenciais provedores de serviços de tecnologia da informação, conforme disposto na Circular nº 3.970, de 28 de novembro de 2019, e regulamentação posterior;
+III - usuários pagadores e recebedores, por meio de associações representativas de âmbito nacional; e
+IV - câmaras e prestadores de serviços de compensação e de liquidação que ofertem mecanismos de provimento de liquidez no âmbito do Pix.
+§ 1º A coordenação do Fórum Pix será exercida pelo Banco Central do Brasil.
+§ 2º  A critério do Coordenador do Fórum Pix, poderão ser convidados a participar das reuniões do Fórum Pix ou de grupos de trabalho temáticos criados no âmbito do Fórum Pix órgãos e entidades reguladoras de serviços de pagamento, órgãos de defesa da concorrência e do consumidor de âmbito nacional e outros agentes econômicos com legítimo interesse nas operações do Pix.
+Art. 7º  Compete ao Coordenador do Fórum Pix:
+I - apresentar, por iniciativa própria ou a partir de sugestão de participante, propostas de acréscimos ou de alterações de regras que possam ensejar a necessidade de alteração no Regulamento do Pix, quando referentes a temas que impactem a atuação dos participantes e seus correspondentes modelos de negócio;
+II - analisar e responder as contribuições dos participantes do Fórum Pix acerca das propostas de que trata o inciso I;
+III - definir os temas a serem discutidos pelo Fórum Pix;
+IV - definir a periodicidade das reuniões do Fórum Pix;
+V - decidir sobre a constituição de grupos de trabalho temáticos, com objeto delimitado, de forma permanente ou por prazo determinado, e sobre a composição, a coordenação, os produtos, os prazos e as diretrizes de atuação desses grupos;
+VI - decidir sobre a constituição de comitês, inclusive de autorregulação, sua composição e objeto de atuação; e
+VII - coordenar a atuação das entidades envolvidas no encaminhamento das soluções aprovadas.
+Art. 8º  O Diretório de Identificadores de Contas Transacionais (DICT) entrará em funcionamento:
+I - no dia 5 de outubro de 2020, em operação restrita; e
+II - no dia 16 de novembro de 2020, em operação plena.
+Art. 9º  O Pix entrará em funcionamento:
+I - no dia 3 de novembro de 2020, em operação restrita; e
+II - no dia 16 de novembro de 2020, em operação plena.
+Art. 10.  O Banco Central do Brasil detalhará, em ato específico, orientações e determinações complementares ao disposto nos arts. 8º e 9º, inclusive no que diz respeito aos horários diferenciados para realização de transações de envio e de recebimento de Pix durante a fase de operação restrita.
+Art. 11.  Fica revogada a Circular nº 3.985, de 18 de fevereiro de 2020.
+Art. 12.  Esta Resolução entra em vigor em 1º de setembro de 2020, produzindo efeitos desde a sua publicação quanto ao disposto no § 7º do art. 3º.
+João Manoel Pinho de Mello
+Diretor de Organização do Sistema Financeiro e de Resolução
+ 
+REGULAMENTO ANEXO À RESOLUÇÃO BCB Nº 1, DE 12 DE AGOSTO DE 2020
+Disciplina o funcionamento do arranjo de pagamentos Pix.
+
+
+CAPÍTULO I
+DO ÂMBITO DE APLICAÇÃO
+Art. 1º  Sujeitam-se ao disposto neste Regulamento todos os participantes do arranjo de pagamentos Pix.
+Parágrafo único.  O disposto neste Regulamento não afasta a aplicação da regulação emanada pelo Conselho Monetário Nacional ou pelo Banco Central do Brasil sobre as instituições reguladas e supervisionadas pelo Banco Central do Brasil, prevalecendo, em caso de conflito, o disposto na regulação aplicável a cada segmento.
+
+
+CAPÍTULO II
+DO ESCOPO
+Art. 2º  Além deste documento, compõem o Regulamento do Pix:
+I - Manual de Uso da Marca;
+II - Manual de Padrões para Iniciação do Pix;
+III - Manual de Fluxos do Processo de Efetivação do Pix;
+IV - Requisitos Mínimos para a Experiência do Usuário;
+V - Manual de Redes do SFN;
+VI - Manual de Segurança do SFN;
+VII - Catálogo de Serviços do SFN;
+VIII - Manual das Interfaces de Comunicação;
+IX - Manual de Tempos do Pix;
+X - Manual Operacional do DICT;
+XI - Manual de Resolução de Disputas; e
+XII - Manual de Penalidades.
+
+
+CAPÍTULO III
+DAS DEFINIÇÕES
+Art. 3º  Para os efeitos deste Regulamento, as expressões e os termos relacionados são assim definidos:
+I - chave Pix: informação relacionada ao titular de uma conta transacional que permite obter as informações armazenadas no Diretório de Identificadores de Contas Transacionais (DICT) sobre o usuário recebedor e a correspondente conta transacional, com a finalidade de facilitar o processo de iniciação de transações de pagamento pelos usuários pagadores e de mitigar o risco de fraude em transações no âmbito do Pix;
+II - código de resposta rápida (quick response code ou QR Code): código de barras bidimensional que será utilizado com a finalidade de facilitar a iniciação de uma transação de pagamento;
+III - código de resposta rápida dinâmico (dynamic quick response code ou QR Code dinâmico): QR Code gerado pelo usuário recebedor, para iniciar um ou mais Pix, cujas informações da transação de pagamento estão fora da codificação do QR Code e que apresenta um rol extenso de funcionalidades passíveis de configuração por parte do usuário recebedor;
+IV - código de resposta rápida estático (static quick response code ou QR Code estático): QR Code gerado pelo usuário recebedor, para iniciar um ou mais Pix, cujas informações da transação de pagamento estão dentro da codificação do QR Code e que apresenta poucas funcionalidades passíveis de configuração por parte do usuário recebedor;
+V - Conta Pagamentos Instantâneos (Conta PI): conta de titularidade de um participante direto no Sistema de Pagamentos Instantâneos (SPI), mantida no Banco Central do Brasil para fins de transferências de fundos no âmbito do SPI;
+VI - conta transacional: (Redação dada pela Resolução BCB nº 42, de 19/11/2020.)
+a) conta mantida por um usuário final, em um participante do Pix, utilizada para fins de pagamento ou de recebimento de recursos, podendo ser uma conta de depósito à vista, uma conta de depósito de poupança ou uma conta de pagamento pré-paga; (Incluída pela Resolução BCB nº 39, de 13/11/2020.)
+b) conta ou subconta operada por instituição financeira ou instituição de pagamento em nome de órgãos, entidades, fundos ou assemelhados integrantes da Administração Pública ou por ela administrados; (Incluída pela Resolução BCB nº 39, de 13/11/2020.)
+c) conta PI da instituição financeira ou instituição de pagamento, caso seja participante direto no SPI, para pagamentos ou recebimentos decorrentes, exclusivamente, de obrigações e de direitos próprios; (Redação dada pela Resolução BCB nº 42, de 19/11/2020.)
+d) conta de depósito ou conta de pagamento pré-paga da instituição financeira ou instituição de pagamento, caso seja participante indireto no SPI, para pagamentos ou recebimentos decorrentes, exclusivamente, de obrigações e de direitos próprios; (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+e) conta contábil mantida em participante do Pix em nome de correspondente no País, para movimentação de valores relativos à prestação de serviços, desde que utilizada apenas para receber recursos; ou (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+VII - consentimento: manifestação livre, informada, prévia e inequívoca de vontade pela qual o usuário final concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+VIII - Diretório de Identificadores de Contas Transacionais (DICT): componente do Pix que armazena chaves Pix vinculadas às informações sobre os usuários finais e suas correspondentes contas transacionais, com a finalidade de facilitar o processo de iniciação de transações de pagamento pelos usuários pagadores, de mitigar o risco de fraude em transações no âmbito do Pix e de suportar funcionalidades que contribuem para o bom funcionamento do arranjo;
+IX - Horário Universal Coordenado (Coordinated Universal Time – UTC): padrão horário internacional, definido pela União Internacional de Telecomunicações;
+X - inserção manual dos dados: processo no qual o usuário pagador deve inserir manualmente os dados de identificação do usuário recebedor e da correspondente conta transacional para iniciar um Pix;
+XI - pagamento instantâneo: transferência eletrônica de fundos, na qual a transmissão da ordem de pagamento e a disponibilidade de fundos para o usuário recebedor ocorrem em tempo real e cujo serviço está disponível durante 24 (vinte e quatro) horas por dia e em todos os dias no ano;
+XII - participante: instituição financeira, instituição de pagamento ou ente governamental que adere ao Regulamento do Pix e atende aos demais requisitos do processo de adesão ao arranjo;
+XIII - participante contratante: instituição de pagamento de que trata o § 4º do art. 3º da Resolução que divulga este Regulamento ou instituição de pagamento com processo de autorização de funcionamento em curso que contrata os serviços do participante responsável;
+XIV - participante liquidante no SPI: participante direto do SPI que presta serviço de liquidação de pagamentos instantâneos, em sua Conta PI, a participante indireto do SPI, podendo atuar como liquidante emissor ou como liquidante recebedor de pagamentos instantâneos;
+XV - participante reivindicador: no âmbito dos processos de portabilidade e de reivindicação de posse de chave Pix, participante do Pix para o qual o usuário final deseja transferir determinada chave Pix, com o objetivo de vincular a uma conta transacional mantida por esse participante;
+XVI - participante responsável: participante do Pix que se responsabiliza pela atuação do participante contratante em aspectos relativos ao arranjo;
+XVII - Pix: arranjo de pagamentos instituído pelo Banco Central do Brasil que disciplina a prestação de serviços de pagamento relacionados a transações de pagamentos instantâneos e a própria transação de pagamento instantâneo no âmbito do arranjo;
+XVIII - prestador de serviços de pagamento: instituição financeira ou instituição de pagamento que provê serviços de pagamento para um usuário final;
+XIX - Sistema de Pagamentos Instantâneos (SPI): infraestrutura centralizada de liquidação bruta em tempo real das transações realizadas no âmbito de arranjo de pagamentos instantâneos que resultam em transferências de fundos entre seus participantes titulares de Conta PI no Banco Central do Brasil;
+XX - usuário final: pessoa natural ou pessoa jurídica (de natureza privada ou pública) que utiliza o Pix como pagadora ou como recebedora;
+XXI - usuário pagador: usuário final que, no processamento do Pix, tem a sua conta transacional debitada;
+XXII - usuário recebedor: usuário final que, no processamento do Pix, tem a sua conta transacional creditada;
+XXIII - API Pix: interface de programação de aplicações (application programming interface) padronizada pelo Banco Central do Brasil para possibilitar que o usuário final possa automatizar a interação com o participante do Pix que lhe presta serviço de pagamento; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+XXIV - serviço de iniciação de transação de pagamento: serviço que possibilita a iniciação da instrução de uma transação de pagamento, ordenado pelo usuário final, relativamente a uma conta de depósitos ou de pagamento pré-paga, comandada por instituição não detentora da conta à instituição que a detém; (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+XXV - serviço de saque: serviço de disponibilização de recursos em espécie ao usuário pagador no âmbito dos produtos Pix Saque ou Pix Troco pelo participante provedor de conta transacional do usuário pagador; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+XXVI - facilitador de serviço de saque: participante do Pix que: (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+a) se classifique como provedor de conta transacional; (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+b) seja autorizado a funcionar pelo Banco Central do Brasil; e  (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+c) em caráter facultativo, venha a facilitar o serviço de saque, diretamente ou por meio de agente de saque, mediante estabelecimento de relação contratual para essa finalidade; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+XXVII - agente de saque: pessoa jurídica que venha a estabelecer relação contratual com facilitador de serviço de saque para viabilizar a facilitação de tal serviço, podendo ser: (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+a) estabelecimento comercial de qualquer natureza; (Incluída pela Resolução BCB nº 167, de 24/11/2021.)
+b) outra pessoa jurídica que tenha como atividade principal ou secundária a prestação de serviços auxiliares a serviços financeiros ou afins; ou (Incluída pela Resolução BCB nº 167, de 24/11/2021.)
+c) correspondente no País, nos termos da regulamentação específica emanada do Conselho Monetário Nacional no exercício de suas atribuições legais. (Incluída pela Resolução BCB nº 167, de 24/11/2021.)
+Parágrafo único. Para os fins do previsto na alínea “c” do inciso XXVII, o contrato relativo a agente de saque deve ser autônomo em relação àquele para prestação do serviço de correspondente no País. (Incluído pela Resolução BCB nº 167, de 24/11/2021.)
+
+
+CAPÍTULO IV
+DAS CARACTERÍSTICAS GERAIS
+Art. 4º  O Pix abrange, relativamente às modalidades de arranjos de pagamento estabelecidas nas normas vigentes sobre arranjos de pagamento, os arranjos classificados quanto ao seu propósito, ao relacionamento dos usuários finais com a instituição participante e à abrangência territorial, como: (Redação dada, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+I - de compra, baseado em conta de depósito e doméstico;
+II - de compra, baseado em conta de pagamento pré-paga e doméstico;
+III - de transferência, baseado em conta de depósito e doméstico; e
+IV - de transferência, baseado em conta de pagamento pré-paga e doméstico.
+Art. 4º-A  Além do disposto no art. 4º, são admitidas, no âmbito do Pix, transações entre conta de depósito ou conta de pagamento pré-paga e:
+I - conta transacional, de que trata o art. 3º, inciso VI, alíneas “b” e “e”; ou (Redação dada pela Resolução BCB nº 42, de 19/11/2020.)
+II - conta transacional de que trata o art. 3º, inciso VI, alíneas “c” e “d”, desde que:
+a) o detentor da conta de que trata o caput não seja uma instituição financeira ou instituição de pagamento; e
+b) a transação não possa ser caracterizada como transferência de reservas entre as instituições financeiras ou de pagamento.
+(Artigo 4º-A incluído pela Resolução BCB nº 39, de 13/11/2020.)
+
+
+CAPÍTULO V
+DA INICIAÇÃO DE UM PIX
+
+
+Seção I
+Disposições gerais
+Art. 5º  Admitem-se os seguintes procedimentos para a iniciação de um Pix, de forma exclusiva ou combinada:
+I - inserção manual dos dados pelo usuário pagador; e
+II - utilização de informações enviadas ou disponibilizadas previamente, mediante os mecanismos previstos neste Regulamento.
+Parágrafo único.  (Revogado, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+§ 1º  Para fins de iniciação do Pix, por qualquer um dos procedimentos previstos no caput, são necessárias, no mínimo, as seguintes informações relativas ao usuário recebedor:
+I - número de inscrição no Cadastro de Pessoas Físicas (CPF), no caso de pessoa natural, ou no Cadastro Nacional da Pessoa Jurídica (CNPJ), no caso de pessoa jurídica;
+II - Código Identificador no Sistema de Pagamentos Brasileiro (ISPB) do participante do Pix no qual o usuário recebedor detém uma conta transacional;
+III - identificação do número da agência em que o usuário recebedor detém uma conta transacional, se houver;
+IV - identificação do tipo de conta transacional que o usuário recebedor detém; e
+V - número da conta transacional.
+(Parágrafo 1º incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+§ 2º  Nas transações iniciadas na forma do inciso I do caput, quando o participante do Pix que presta serviço de pagamento ao usuário recebedor for uma cooperativa singular de crédito filiada a uma cooperativa central de crédito, o ISPB informado deve ser aquele referente à entidade do sistema cooperativo organizado de dois ou três níveis que seja seu participante liquidante no SPI. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+§ 3º  Na situação de que trata o § 2º, a cooperativa singular de crédito deve ser identificada por meio do número da agência. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 6º  Os participantes do Pix que ofertem contas transacionais a usuários finais pessoas naturais devem disponibilizar a iniciação de um Pix, pelo menos, por meio do aplicativo principal do participante, em termos de quantidade de usuários, que tenha utilização oferecida a pessoas naturais e que seja acessível por meio de telefone celular.
+Parágrafo único.  Os participantes de que trata o caput devem ofertar: (Redação dada, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+I - a iniciação de um Pix na forma prevista nos incisos I, II e III do art. 12 aos usuários pagadores; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+II - a geração de QR Code estático aos usuários recebedores pessoa natural. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 7º  Os participantes do Pix que ofertem contas transacionais a usuários finais pessoas jurídicas devem disponibilizar a iniciação de um Pix, pelo menos, por meio de seu principal canal digital, em termos de quantidade de transações, destinado a esse tipo de usuário final para pagamentos e recebimentos.
+Parágrafo único.  (Revogado, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 1º  Na situação de que trata o caput, o participante pode escolher, entre os procedimentos para iniciação previstos nos incisos I, II e III do art. 12, qual ou quais ofertará aos usuários pagadores. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 2º  Caso expressamente acordado com o usuário final pessoa jurídica, os participantes do Pix podem disponibilizar a iniciação de um Pix exclusivamente por meio de canal digital diferente do principal canal digital, em termos de quantidade de transações, destinado a esse tipo de usuário final para pagamentos e recebimentos. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 3º  (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+
+
+
+
+Seção II
+Dos Produtos
+(Denominação alterada, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+
+
+Subseção I
+Do Pix Agendado
+(Denominação incluída, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 8º  O Pix Agendado consiste na possibilidade de o usuário pagador agendar a realização de um Pix para uma determinada data futura.
+Art. 9º  A solicitação de um Pix Agendado deve ficar retida nos sistemas internos do participante provedor de conta transacional, não sensibilizando os saldos em conta transacional do usuário pagador, até o momento da efetiva iniciação do Pix, quando passa a seguir o fluxo normal de um Pix, conforme o disposto nos Capítulos VIII, IX e X deste Regulamento. (Redação dada, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+I - (Revogado, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+II - (Revogado, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+§ 1º  Caso não haja recursos suficientes na conta do usuário pagador na data prevista para a realização do Pix, a iniciação da transação não será autorizada.
+§ 2º  O Manual das Interfaces de Comunicação estabelecerá a quantidade máxima de transações por unidade de tempo que cada participante poderá enviar para liquidação no SPI relativamente ao Pix Agendado.
+§ 3º  A retenção de que trata o caput também se aplica no caso da iniciação de um Pix Agendado por meio de serviço de iniciação de transação de pagamento. (Incluído, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+Art. 10.  Para ofertar o Pix Agendado, o participante deve definir, no mínimo, os seguintes aspectos:
+I - o limite de data futura para o agendamento;
+II - a forma e as condições para agendamentos recorrentes; e
+III - o horário limite para alteração ou cancelamento de um Pix Agendado, se for o caso, que deve ser anterior ao momento de sua efetiva iniciação.
+Art. 11. (Revogado pela Resolução BCB nº 88, de 22/4/2021.)
+
+
+Subseção II
+Do Pix Cobrança
+(Subseção II incluída, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 11-A.  O Pix Cobrança consiste na possibilidade de o usuário recebedor gerenciar e receber, de forma facilitada, cobranças relacionadas a:
+I - pagamentos imediatos, que são aqueles relativos a modelos de negócio em que o pagamento deve ser feito no momento da emissão da cobrança, tais como pontos de venda físicos e comércio eletrônico; (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+II - pagamentos com vencimento, que são aqueles relativos a modelos de negócio em que o pagamento pode ser realizado em data futura, contemplando a possibilidade de tratamento de juros, multas, outros acréscimos, descontos e outros abatimentos; e (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+III - pagamentos referentes à facilitação de serviço de saque, que são aqueles relativos ao recebimento de transações Pix com finalidade de saque ou de troco pelo agente de saque para possibilitar a disponibilização de recursos em espécie ao usuário pagador no âmbito dos produtos Pix Saque e Pix Troco. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Parágrafo único.  (Revogado, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 1º  As funcionalidades do Pix Cobrança serão previstas no Manual de Padrões para Iniciação do Pix. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 2º  Para os fins do disposto no inciso III, o agente de saque corresponde ao usuário recebedor de que trata o caput. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 11-B.  Uma vez iniciado o pagamento do Pix Cobrança, deve-se observar o fluxo normal de um Pix, conforme o disposto nos Capítulos VIII, IX e X deste Regulamento.
+Art. 11-C.  A oferta do Pix Cobrança pelos participantes do Pix é facultativa, ressalvada a obrigação de que trata o inciso II do parágrafo único do art. 6º.
+Parágrafo único.  O participante que ofertar Pix Cobrança por meio da geração de QR Code estático deverá disponibilizar as funcionalidades relacionadas a recebimentos de pagamentos imediatos e de pagamentos referentes à facilitação de serviço de saque no âmbito do produto Pix Saque. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 11-D.  A leitura de um QR Code associado a um Pix Cobrança e a iniciação de um Pix com as informações do Pix Cobrança devem ser disponibilizadas pelos participantes do Pix provedores de contas transacionais. (Incluído pela Resolução BCB nº 88, de 22/4/2021.)
+Parágrafo único.  Na hipótese do Pix Cobrança relacionado a pagamentos com vencimento, os participantes do Pix provedores de contas transacionais devem permitir, ao usuário pagador, o agendamento de um Pix para determinada data futura, observado o disposto no art. 9º e o art. 10, inciso III, deste Regulamento. (Incluído pela Resolução BCB nº 88, de 22/4/2021.)
+Art. 11-E.  A leitura de um QR Code associado a um Pix Cobrança e a iniciação de um Pix com as informações do Pix Cobrança é facultativa para o participante iniciador. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Parágrafo único.  Na hipótese de o Pix Cobrança relacionado a pagamentos com vencimento ser iniciado por meio de serviço de iniciação de transação de pagamento e ter sido agendado para determinada data futura, deve ser observado o disposto no art. 9º e no art. 10, inciso III, deste Regulamento. (Incluído, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+
+
+Subseção III
+Do Pix Saque e do Pix Troco
+(Subseção III incluída, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 11-F.  O Pix Saque consiste na transação em que um usuário pagador, com conta transacional em qualquer participante do Pix, realiza um Pix com finalidade de saque de sua conta transacional para a conta transacional do facilitador de serviço de saque ou do agente de saque, recebendo, em seguida, recursos em espécie em valor correspondente ao Pix com finalidade de saque. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 11-G.  O Pix Troco consiste na transação em que um usuário pagador, com conta transacional em qualquer participante do Pix, ao realizar uma compra em um agente de saque que seja uma das pessoas jurídicas definidas nas alíneas “a” ou “c” do inciso XXVII do art. 3º, realiza um Pix com finalidade de troco de sua conta transacional para a conta transacional do agente de saque, recebendo, em seguida, recursos em espécie em valor correspondente à diferença entre o valor do Pix com finalidade de troco e o valor da compra. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 11-H.  Tanto para fins de confirmação pelo usuário pagador quanto para fins de comprovação da transação, as informações relativas ao Pix com finalidade de saque ou de troco devem discriminar o valor dos recursos em espécie disponibilizados. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Parágrafo único.  No caso do Pix com finalidade de troco, deverá ser discriminado também o valor da compra e o valor total da transação. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 11-I.  A iniciação do Pix com finalidade de saque ou de troco deve ocorrer por meio dos mecanismos previstos nos incisos II, III ou IV do art. 12. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 1º  Para fins da iniciação de que trata o caput, os participantes do Pix devem observar o disposto nos arts. 6º e 7º. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 2º  Recebida pelo facilitador de serviço de saque ou pelo agente de saque a notificação de que sua conta transacional foi creditada, os recursos em espécie relativos ao serviço de saque serão disponibilizados imediatamente ao usuário pagador ou assim que por este demandado, conforme modelo de negócio adotado. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 11-J.  Aplicam-se ao Pix com finalidade de saque ou de troco as regras e os procedimentos gerais do Pix, inclusive no que diz respeito aos deveres e aos direitos dos participantes, salvo expressa disposição em contrário nesta Subseção. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 11-K.  O facilitador de serviço de saque deve publicar informações relativas à facilitação do serviço, em formato e conteúdo indicados pelo Banco Central do Brasil em documento específico. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 11-L.  O facilitador de serviço de saque que estabelecer relação contratual com um ou mais agentes de saque deverá: (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+I - avaliar a necessidade de estabelecer limites transacionais aos agentes de saque, conforme as características e o perfil de cada agente, localização, horários e outros critérios de segurança, observados os limites de valor definidos pelo Banco Central do Brasil em documento específico; (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+II - prestar informações ao Banco Central do Brasil a respeito dos agentes de saque para fins de monitoramento e de divulgação de informações relacionadas à facilitação do serviço; e (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+III - publicar, no formato indicado pelo Banco Central do Brasil, manter atualizadas e monitorar as informações dos agentes de saque com os quais possui relação contratual. (Redação dada pela Resolução BCB nº 167, de 24/11/2021.)
+§ 1º  O contrato de que trata o caput deve prever, no mínimo, os seguintes aspectos: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+I - a necessidade de observância, por parte do agente de saque, das regras para facilitação do serviço de saque no âmbito dos produtos Pix Saque ou Pix Troco e as regras para uso da marca Pix, nos termos do disposto neste Regulamento; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+II - a possibilidade de o agente de saque ter flexibilidade para definir, conforme seu modelo de negócio: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+a) limites transacionais, respeitados os limites estabelecidos pelo facilitador de serviço de saque, quando houver, e pelo Banco Central do Brasil; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+b) horários e condições da disponibilização de recursos em espécie; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+c) formas de disponibilização dos recursos em espécie, a exemplo de permitir apenas montantes múltiplos de determinados valores; (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+d) a quantidade e a localidade dos pontos de atendimento que disponibilizarão recursos em espécie; e (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+e) o produto a ser ofertado (Pix Saque, Pix Troco ou ambos); (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+III - a vedação à recusa à disponibilização de recursos em espécie em função do participante provedor de conta transacional do usuário pagador; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+IV - a vedação à cobrança de tarifas dos usuários pagadores pelo agente de saque; (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+V - a exigência de provimento de informações pelo agente de saque ao facilitador de serviço de saque, para fins de monitoramento da sua atuação e de divulgação de informações; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+VI - a exigência de divulgação, em linguagem clara, adequada e acessível, nas dependências físicas, sítios eletrônicos na internet ou aplicativos do agente de saque, acerca da oferta do Pix Saque ou do Pix Troco; (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+VII - a possibilidade de suspensão ou de resolução do contrato pelo facilitador de serviço de saque em caso de não atendimento pelo agente de saque das regras ou dos requisitos estabelecidos para a disponibilização de recursos em espécie; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+VIII - a possibilidade de resilição unilateral do contrato mediante comunicação à outra parte com antecedência mínima de 30 (trinta) dias; (Redação dada pela Resolução BCB nº 167, de 24/11/2021.)
+IX - as condições e os procedimentos operacionais para o ressarcimento de custos operacionais a ser distribuído ao agente de saque nos termos do art. 96-B, observadas as regras fixadas pelo Banco Central do Brasil em documento específico; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+X - a vedação ao estabelecimento de relação contratual, pelo agente de saque, com mais de um facilitador de serviço de saque simultaneamente; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+XI - a identificação completa da conta transacional do agente de saque mantida em seu provedor de conta transacional e vinculada à facilitação do serviço de saque; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+XII - a necessidade de o agente de saque manter atualizadas, com seu facilitador de serviço de saque, as informações necessárias à facilitação do serviço, inclusive no que se refere à identificação da conta mantida em seu provedor de conta transacional; (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+XIII - a necessidade de o agente de saque comunicar ao seu provedor de conta transacional sobre o início e o término da vigência do contrato firmado com o facilitador de serviço de saque e sobre a identificação do facilitador de serviço de saque, nos casos em que o provedor de conta transacional e o facilitador de serviço de saque sejam participantes distintos; e (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+XIV - a necessidade de o agente de saque comprovar, ao seu facilitador de serviço de saque, que realizou a comunicação prevista no inciso XIII. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+§ 2º  É vedado ao facilitador de serviço de saque estabelecer disposição contratual destinada a penalizar o agente de saque em virtude de indisponibilidade de recursos em espécie para a facilitação do serviço de saque nos casos em que a transação correspondente não tiver sido iniciada. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+§ 3º  A responsabilidade quanto à autenticidade de cédulas a serem disponibilizadas para a prestação do serviço de saque é do facilitador de serviço de saque, sem prejuízo do disposto no § 4º. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+§ 4º  O contrato de que trata o caput poderá prever que o agente de saque suportará os ônus econômicos da responsabilidade prevista no § 3º, assumindo perante o facilitador de serviço de saque a obrigação de ressarcir os prejuízos por este suportados ou de impedir que tais prejuízos venham a se materializar. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 11-M.  Os participantes do Pix provedores de conta transacional dos usuários pagadores devem estabelecer limites de valor por transação e limites diários de valor para o Pix com finalidade de saque e de troco, observado o perfil de risco do usuário pagador, assim como permitir a personalização desse limite. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Parágrafo único.  Para a definição de limites de que trata o caput, o participante deve observar os limites de valor definidos pelo Banco Central do Brasil em documento específico. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 11-N.  Os aspectos operacionais para implementação do Pix Saque e do Pix Troco, inclusive quanto aos limites de valor, aos prazos e aos procedimentos necessários para que o agente de saque esteja apto a disponibilizar os produtos, a serem observados por provedores de conta transacional e por facilitadores de serviço de saque, constarão de documento específico divulgado pelo Banco Central do Brasil. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 11-O.  Os serviços no âmbito do Pix Saque e do Pix Troco poderão ser ofertados a partir de 29 de novembro de 2021. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 11-P.  É vedado o agendamento de Pix Saque e de Pix Troco. (Incluído pela Resolução BCB nº 167, de 24/11/2021.)
+
+
+Seção III
+Dos mecanismos para envio ou disponibilização prévia de informações para fins de iniciação de um Pix
+Art. 12.  São mecanismos para envio ou disponibilização prévia de informações para fins de iniciação de um Pix:
+I - chave Pix;
+II - QR Code dinâmico; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+III - QR Code estático; e (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+IV - serviço de iniciação de transação de pagamento, nos casos em que o participante possui todas as informações do usuário recebedor. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+
+
+Subseção I
+Das chaves Pix
+Art. 13.  As chaves Pix de que trata o inciso I do art. 12 ficam armazenadas no DICT, conforme disposto no Capítulo XIII.
+Art. 14.  Na iniciação de um Pix por meio dos mecanismos de que tratam os incisos I, II e III do art. 12, a identificação da conta transacional do usuário recebedor deve ser feita por meio de consulta ao DICT, quando se tratar de transação entre contas transacionais de usuários finais em diferentes participantes. (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Parágrafo único. Caso a transação ocorra entre contas transacionais de usuários finais em um mesmo participante, cabe ao próprio participante identificar os dados da conta transacional do usuário recebedor por meio de consulta à sua base de dados interna.
+
+
+Subseção II
+Dos QR Codes
+Art. 15.  As regras e as sistemáticas operacionais para geração e uso de QR Codes para iniciação de um Pix estão descritas no Manual de Padrões para Iniciação do Pix.
+Parágrafo único. Aplicam-se ao participante iniciador exclusivamente as regras e as sistemáticas operacionais para o uso de QR Codes para iniciação de um Pix. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+
+
+Subseção III
+Da API Pix
+(Subseção III incluída, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 15-A.  A API Pix é o componente do Pix que visa a possibilitar que o usuário final automatize a interação com o participante do Pix que lhe presta serviço de pagamento.
+Parágrafo único.   (Revogado, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 1º  As funcionalidades contempladas pela API Pix e o seu detalhamento estão previstos no Manual de Padrões para Iniciação do Pix. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 2º  No momento da oferta da API Pix, os participantes do Pix devem observar o conjunto de funcionalidades de cada produto ou serviço que desejem ofertar, sendo que, no mínimo, devem ser contemplados aqueles relativos aos incisos I e III do art. 11-A. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 15-B.  Os participantes do Pix que disponibilizem funcionalidades aos usuários finais relacionadas à API devem realizá-lo por meio da API Pix.
+Parágrafo único.  (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 1º  É facultada a oferta, pelos participantes, em APIs próprias, de funcionalidades acessórias ou complementares àquelas disponibilizadas na API Pix. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 2º  O disposto no caput não se aplica nos casos em que a oferta de funcionalidades previstas na API Pix for disponibilizada diretamente por outros meios em que não há automatização da interação do usuário final com o participante do Pix que lhe presta serviço de pagamento. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+
+
+Seção IV
+Da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento
+(Seção IV incluída, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 15-C.  Os participantes que prestam serviço de iniciação de transação de pagamento poderão se valer dos procedimentos para a iniciação de um Pix previstos no art. 5º.
+§ 1º  Nas transações iniciadas por meio de serviço de iniciação de transação de pagamento, o participante que presta o serviço de iniciação deve fornecer, ao participante provedor de conta transacional, as informações previstas:
+I - no § 1º do art. 5º, nas transações iniciadas pelos procedimentos previstos no art. 5º, inciso I;
+II - no § 1º do art. 5º, acrescida da informação relativa à chave Pix do usuário recebedor, nas transações iniciadas pelos procedimentos previstos no art. 5º, inciso II.
+§ 2º  Os requisitos técnicos e os procedimentos operacionais necessários para que o participante inicie um Pix por meio de serviço de iniciação de transação de pagamento devem seguir o disposto na Resolução BCB nº 32, de 29 outubro de 2020, e nos normativos dela derivados.
+§ 3º  Pode ofertar serviço de iniciação de transação de pagamento:
+I - o participante iniciador; e
+II - o participante provedor de conta transacional que possa prestar serviço de iniciação de transação de pagamento, nos termos da Resolução BCB nº 80, de 25 de março de 2021.
+
+
+CAPÍTULO VI
+DO USO DA MARCA PIX
+Art. 16.  A marca Pix é de titularidade exclusiva do Banco Central do Brasil, que conferirá aos participantes do Pix licença temporária, não exclusiva e intransferível de uso da marca, em suas formas nominativa e de símbolo, nos termos do art. 139 da Lei nº 9.279, de 14 de maio de 1996.
+§ 1º  A instituição passa a ser licenciada a utilizar a marca Pix a partir do momento em que for aceita como participante do Pix.
+§ 2º  Caso o participante decida voluntariamente desligar-se do Pix, nos termos do art. 30, ou caso seja excluído do Pix, nos termos dos art. 31 ou do inciso III do art. 93, fica revogada sua licença de uso da marca Pix.
+§ 3º  Qualquer tipo de uso da marca deverá estar em conformidade com os termos deste Regulamento e com o Manual de Uso da Marca.
+Art. 17.  É vedado aos participantes:
+I - afirmar a existência de quaisquer direitos sobre a marca Pix não previstos, de forma expressa, neste Regulamento ou no Manual de Uso da Marca;
+II - questionar a titularidade da marca Pix;
+III - registrar ou tentar registrar razão social, nome fantasia, logotipo ou qualquer nome de domínio de internet contendo referência à marca Pix;
+IV - associar a marca Pix a produtos não relacionados ao arranjo; e
+V - utilizar a marca Pix ou termo que esteja relacionado à marca Pix além dos limites fixados neste Regulamento e no Manual de Uso da Marca.
+Parágrafo único.  O uso ou a exibição da marca Pix não conferirá ao participante quaisquer direitos ou benefícios sobre ela além daqueles expressamente estabelecidos neste Regulamento.
+Art. 18.  Ao fazer uso da marca Pix, o participante deve assegurar-se de que essa utilização não acarretará danos de nenhuma espécie, inclusive de imagem, ao Banco Central do Brasil ou ao Pix.
+Parágrafo único.  O participante notificará o Banco Central do Brasil, em até 7 (sete) dias, sempre que tomar conhecimento do uso indevido da marca ou de qualquer tentativa de cópia ou de infração aos direitos da marca por prestador de serviços de pagamento, seja ele participante ou não do Pix.
+Art. 19.  O participante, ao contratar a aceitação do Pix com um estabelecimento comercial, deverá estipular a obrigatoriedade do uso da marca, em conformidade com o disposto neste Regulamento e no Manual de Uso da Marca.
+§ 1º  O contrato do participante com o estabelecimento comercial para aceitação do Pix deve estipular regras para o uso da marca em conformidade com o disposto neste Regulamento e no Manual de Uso da Marca, além de prever que os anúncios de instrumentos de pagamentos aceitos pelo estabelecimento contratado:
+I - não veicularão a marca Pix em dimensão inferior às marcas, aos símbolos ou aos logotipos dos demais instrumentos de pagamento aceitos pelo estabelecimento comercial; e
+II - não transmitirão a impressão de que o Pix possui aceitação mais restrita ou menos vantajosa do que os demais instrumentos aceitos pelo estabelecimento comercial, quando tal impressão não corresponda à realidade ou não seja adequadamente justificada por diferenças técnicas.
+§ 2º  O uso da marca não confere ao estabelecimento comercial qualquer direito de titularidade ou outro benefício referente à marca.
+§ 3º  Cabe ao participante disponibilizar canal para denúncias relativamente ao uso indevido da marca pelos estabelecimentos comerciais que com ele contratam.
+§ 4º Caso identifique uso indevido da marca nos termos do § 3º, o participante deve comunicar ao Banco Central do Brasil, em até 7 (sete) dias, e deve tomar as providências necessárias para a regularização de seu uso.
+§ 5º  O contrato firmado entre o participante e o estabelecimento comercial, para aceitação do Pix, deverá prever:
+I - a possibilidade de o participante suspender a aceitação do Pix pelo estabelecimento comercial, em caso de reincidência de infração relacionada ao uso da marca, de recusa ou de demora injustificada para a regularização do uso da marca; e
+II - a possibilidade de o participante resolver unilateralmente o negócio jurídico em caso de grave infração, pelo estabelecimento comercial, das regras de uso da marca, desde que devidamente comprovados os fatos.
+§ 6º  As situações de que tratam os incisos I e II do § 5º deverão ser informadas ao Banco Central do Brasil, em até 7 (sete) dias, contados a partir da decisão de suspender ou de resolver o contrato.
+Art. 20.  Os participantes devem fornecer aos estabelecimentos comerciais com os quais mantenham contrato a arte final apropriada para o uso da marca nos formatos definidos no Manual de Uso da Marca.
+Art. 20-A.  Aplica-se o disposto nos arts. 19 e 20 à relação contratual entre o facilitador de serviço de saque e o agente de saque, no que se refere aos direitos e obrigações das partes para o uso da marca Pix. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 21.  A utilização da marca Pix no ambiente dos participantes obedecerá a critérios específicos de compatibilização da marca Pix com as marcas ou demais identidades visuais, conforme estabelecido no Manual de Uso da Marca.
+Art. 22.  Os participantes devem adotar ações de comunicação relacionadas ao Pix alinhadas à estratégia de comunicação desse arranjo definida pelo Banco Central do Brasil.
+
+
+CAPÍTULO VII
+DA PARTICIPAÇÃO
+
+
+Seção I
+Das modalidades de participação
+Art. 23.  O Pix admite as seguintes modalidades de participação:
+I - provedor de conta transacional;
+II - ente governamental; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+III - liquidante especial; e (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+IV - iniciador. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 1º  Pode atuar como provedor de conta transacional a instituição financeira ou a instituição de pagamento que oferte conta de depósito ou conta de pagamento pré-paga ao usuário final.
+§ 2º  Pode atuar como ente governamental a Secretaria do Tesouro Nacional, com a finalidade exclusiva de realizar recolhimentos e pagamentos relativos às suas atividades típicas.
+§ 3º  Pode atuar como liquidante especial a instituição financeira ou a instituição de pagamento autorizada a funcionar pelo Banco Central do Brasil que:
+I - no âmbito do Pix, tenha como objetivo exclusivo prestar serviço de liquidação para outros participantes, não ofertando envio ou recebimento de um Pix a usuários finais;
+II - atenda aos requisitos para atuar como participante liquidante no SPI, nos termos do Regulamento daquele sistema;
+III - oferte conta de depósito ou conta de pagamento pré-paga, mas não se enquadre no critério de obrigatoriedade de participação no Pix, de que trata o art. 3º da Resolução que divulga este Regulamento. (Redação dada, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+§ 4º  Podem atuar como iniciador a instituição financeira, a instituição de pagamento e as demais instituições autorizadas a funcionar pelo Banco Central do Brasil que, no âmbito do Pix, tenham como objetivo exclusivo prestar serviço de iniciação de transação de pagamento. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+
+
+Seção II
+Dos requisitos e dos procedimentos para a participação no Pix
+Art. 24.  Para fins de participação no Pix as instituições financeiras, as instituições de pagamento e a Secretaria do Tesouro Nacional deverão:
+I - aderir às regras, às condições e aos procedimentos estabelecidos neste Regulamento; e
+II - possuir capacidade técnica e operacional para cumprir os deveres e as obrigações previstos neste Regulamento.
+§ 1º As instituições de pagamento não sujeitas à autorização de funcionamento ou em processo de autorização de funcionamento pelo Banco Central do Brasil deverão:
+I - possuir contrato firmado com participante responsável; e
+II - comprovar a integralização e a manutenção de, no mínimo, R$1.000.000,00 (um milhão de reais) de capital.
+§ 2º  A qualquer tempo, o Banco Central do Brasil poderá exigir do participante contratante a identificação da origem dos recursos utilizados no empreendimento pelos integrantes do grupo de controle e pelos detentores de participação qualificada, relativamente à exigência de que trata o inciso II do § 1º.
+§ 3º  As informações e os documentos relativos à verificação de que trata o inciso II do caput e o inciso II do § 1º pelo participante responsável devem ser mantidos à disposição do Banco Central do Brasil.
+Art. 25.  Além da adesão aos termos deste Regulamento, para participar do Pix, a instituição deve obter aprovação do Banco Central do Brasil quanto ao cumprimento dos requisitos das etapas cadastral e homologatória do processo de adesão.
+§ 1º  A etapa cadastral compreende o envio de informações relativas à identificação da instituição, à modalidade de participação pretendida no Pix, à modalidade de participação pretendida no SPI, à opção pela forma de acesso ao DICT, entre outras estabelecidas pelo Banco Central do Brasil, a seu critério.
+§ 2º  A etapa homologatória compreende:
+I - testes de comprovação da capacidade tecnológica e operacional, nos termos do Regulamento do SPI, bem como de suas alterações posteriores e normas a ele complementares;
+II - testes de homologação entre o participante indireto e o participante direto que lhe presta serviço de liquidação no SPI;
+III - testes formais de homologação no DICT; (Redação dada pela Resolução BCB nº 79, de 18/3/2021.)
+IV - verificação de aderência das soluções desenvolvidas para os usuários finais; e (Redação dada pela Resolução BCB nº 79, de 18/3/2021.)
+V - procedimentos para homologação de produtos ou serviços, de oferta obrigatória ou facultativa, no âmbito do Pix. (Incluído pela Resolução BCB nº 79, de 18/3/2021.)
+§ 3º  O detalhamento dos requisitos, procedimentos, formulários e prazos relativos à etapa cadastral e à etapa homologatória estão detalhados em documento específico divulgado pelo Banco Central do Brasil. (Redação dada pela Resolução BCB nº 79, de 18/3/2021.)
+
+
+Seção III
+Do participante responsável e do participante contratante
+Art. 26.  Qualifica-se para atuar como participante responsável o participante do Pix que se enquadre nas modalidades provedor de conta transacional ou liquidante especial e que seja participante direto do SPI.
+Parágrafo único.  O participante responsável deve possuir mecanismos robustos e capacidade técnica e operacional para executar as atividades relacionadas ao gerenciamento de riscos e à prevenção à lavagem de dinheiro e ao financiamento do terrorismo, próprios e dos participantes contratantes. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 27.  O participante responsável, durante a vigência de seu contrato de prestação de serviço com o participante contratante, deve:
+I - atestar perante o Banco Central do Brasil o atendimento, pelo participante contratante, das exigências previstas no inciso II do caput do art. 24 e do inciso II do § 1º do art. 24;
+II - verificar o cumprimento, pelo participante contratante, da regulação mínima de que trata o inciso I, alíneas “a” a “d”, do § 5º do art. 3º da Resolução que divulga este Regulamento, sem prejuízo da supervisão a cargo do Banco Central do Brasil; e
+III - prestar serviço de liquidação, nos termos do Regulamento do SPI.
+§ 1º  Para atendimento do disposto no caput, o participante responsável poderá utilizar-se de serviços de auditoria independente, que poderão, a critério dos envolvidos, ser custeados pelo participante contratante.
+§ 2º  O participante responsável solicitará do participante contratante apenas as informações necessárias para o cumprimento dos deveres previstos no caput, sendo vedada a utilização dessas informações para qualquer outro fim.
+§ 3º  Ao exigir o fornecimento das informações de que trata o § 2º, o participante responsável dispensará tratamento isonômico e não discriminatório a todos os participantes contratantes com os quais venha a estabelecer relação contratual.
+Art. 28.  O contrato entre o participante responsável e o participante contratante deve prever que o não atendimento dos requisitos de participação no Pix pelo participante contratante, nos termos deste Regulamento, resultará na resolução do contrato.
+Art. 29.  Caso o participante responsável decida encerrar a prestação de serviço para um ou mais participantes contratantes, deverá comunicar a decisão ao participante contratante com antecedência mínima de 90 (noventa) dias.
+§ 1º  O prazo previsto no caput não se aplica à hipótese de resolução contratual de que trata o art. 28.
+§ 2º  O contrato entre o participante responsável e o participante contratante poderá estipular prazo superior a 90 (noventa) dias para a comunicação prévia do encerramento da prestação de serviços.
+
+
+Seção IV
+Da saída ordenada de participante
+Art. 30.  O desligamento voluntário de participante que deseje encerrar sua participação no Pix deverá ser notificado ao Banco Central do Brasil com no mínimo 90 (noventa) dias de antecedência do desligamento efetivo.
+§ 1º  O disposto no caput não se aplica aos participantes obrigatórios do Pix.
+§ 2º  Mesmo após o desligamento voluntário de que trata o caput, o participante continua responsável por eventuais fatos ocorridos durante a sua atuação no Pix que ensejem processos de resolução de disputas ou penalidades.
+
+
+Seção V
+Da exclusão de participante
+Art. 31.  Além da exclusão de participante decorrente da aplicação de penalidade, conforme disposto no Capítulo XIX, fica automaticamente excluído do Pix o participante que:
+I - for submetido a processo de liquidação extrajudicial, liquidação ordinária ou falência;
+II - efetivar mudança de objeto social que desenquadre a instituição do rol de instituições que podem participar do Pix;
+III - tiver seu contrato com o participante responsável rescindido, sem que tenha havido substituição dentro do prazo de notificação previsto no art. 29.
+Art. 31-A.  O participante excluído do Pix em decorrência de aplicação de penalidade pode, após 12 (doze) meses de sua exclusão, apresentar novo pedido de adesão, desde que comprove a cessação da prática ou da situação que originou a sua exclusão, além de cumprir os requisitos regulares do processo de adesão. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+
+
+Seção VI
+Dos deveres dos participantes
+Art. 32.  Os participantes do Pix devem:
+I - cumprir o disposto neste Regulamento;
+II - zelar pela imagem, a integridade e a segurança do Pix;
+III - reportar ao Banco Central do Brasil, caso tome conhecimento da existência de fatos que possam comprometer a imagem, a integridade e a segurança do Pix;
+IV - ofertar a iniciação e o recebimento de Pix para todos os usuários finais, caso enquadrados na modalidade provedor de conta transacional;
+V - responsabilizar-se por fraudes no âmbito do Pix decorrentes de falhas nos seus mecanismos de gerenciamento de riscos, compreendendo a inobservância de medidas de gestão de risco definidas neste Regulamento e em dispositivos normativos complementares; (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+VI - conferir tratamento não discriminatório para os diferentes participantes do Pix com os quais estabelecerem relação para a prestação do serviço, em termos de qualidade e de preço do serviço prestado; e (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+VII - utilizar as informações vinculadas às chaves Pix para fins de segurança do Pix, de que tratam os §§ 1º e 2º do art. 59, como um dos fatores a serem considerados para fins de autorização e de rejeição de transações no âmbito do Pix. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+CAPÍTULO VIII
+DO PROCESSO DE LIQUIDAÇÃO DE TRANSAÇÕES
+Art. 33.  As transações de pagamento entre diferentes participantes do Pix serão liquidadas no SPI, nos termos do Regulamento do SPI.
+Parágrafo único.  Caso diferentes participantes do Pix utilizem o serviço de liquidação de um mesmo participante liquidante no SPI, a liquidação das transações entre esses diferentes participantes deverá ser realizada nos sistemas do próprio liquidante no SPI.
+Art. 34.  No caso de um Pix entre usuários finais de um mesmo participante, a liquidação é realizada nos sistemas do próprio participante.
+
+
+CAPÍTULO IX
+DOS TEMPOS MÁXIMOS ASSOCIADOS AO PIX
+Art. 35.  O Banco Central do Brasil estabelecerá, no Manual de Tempos do Pix:
+I - tempos máximos para as transações de pagamento no âmbito do Pix; e
+II - acordos de nível de serviço.
+
+
+CAPÍTULO X
+DA AUTORIZAÇÃO PARA INICIAÇÃO E DA REJEIÇÃO DE TRANSAÇÕES
+Art. 36.  Uma transação no âmbito do Pix é considerada autorizada, para fins de iniciação, quando o participante prestador de serviço de pagamento do usuário pagador, após realizar as devidas verificações de segurança, identifica a existência de saldo suficiente na conta transacional do usuário pagador e bloqueia o valor correspondente à transação para iniciar o processo de liquidação, caso a transação seja liquidada por meio do SPI.
+§ 1º  Nos casos em que a transação for liquidada nos sistemas do participante, a autorização, para fins de iniciação da transação, ocorre no momento em que o participante prestador de serviço de pagamento do usuário pagador, realizadas as devidas verificações de segurança, identifica a existência de saldo suficiente, sendo desnecessária a efetivação de bloqueio do valor correspondente à transação.
+§ 2º  O Banco Central do Brasil estabelecerá, no Manual de Tempos do Pix, os limites máximos de tempo para autorização de iniciação de transações pelo participante prestador de serviço de pagamento do usuário pagador.
+Art. 37.  Os participantes do Pix somente poderão estabelecer limites de valor para as transações baseados em critérios de mitigação de riscos de fraude e de infração à regulação de prevenção à “lavagem” de dinheiro e ao financiamento do terrorismo, utilizando como parâmetro os limites estabelecidos para instrumentos de pagamento com características similares às do Pix, consideradas as características e o perfil do usuário pagador. (Redação dada, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Parágrafo único.  (Revogado, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 1º  O Banco Central do Brasil divulgará documento específico com disposições sobre o estabelecimento de limites pelos participantes, incluindo: (Redação dada pela Resolução BCB nº 147, de 28/9/2021.)
+I - os instrumentos de pagamento que podem ser usados como parâmetro e como balizador para a fixação dos limites de valor; (Incluído pela Resolução BCB nº 147, de 28/9/2021.)
+II - a oferta de funcionalidade para gestão, pelos usuários finais, dos limites, dos beneficiários e dos períodos de realização de transações; e (Incluído pela Resolução BCB nº 147, de 28/9/2021.)
+III - os parâmetros para solicitação de alteração dos limites, dos beneficiários e dos períodos de realização de transações estabelecidos. (Incluído pela Resolução BCB nº 147, de 28/9/2021.)
+§ 2º  Os limites de que trata o caput podem ser aplicados para qualquer forma de iniciação de um Pix, inclusive nos casos em que a transação for iniciada por meio de serviço de iniciação de transação de pagamento. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 37-A.  Os participantes do Pix não estabelecerão limites para o número de transações no âmbito do arranjo que poderão ser enviadas ou recebidas pelos usuários finais. (Incluído, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+ Art. 38.  Uma transação no âmbito do Pix deverá ser rejeitada pelo participante provedor de conta transacional do usuário pagador quando: (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+I - o tempo para autorização de iniciação de transação exceder o tempo máximo para essa autorização, nos termos do Regulamento do SPI;
+II - houver fundada suspeita de fraude, inclusive nos casos em que estiver prestando serviço de iniciação de transação de pagamento; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+III - (Revogado, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+IV - houver problemas na autenticação do usuário pagador; (Redação dada, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+V - envolver movimentação de recursos oriundos de usuários pagadores sancionados por resoluções do Conselho de Segurança das Nações Unidas, na forma prevista na Lei nº 13.810, de 2019, e conforme disciplina própria editada pelo Banco Central do Brasil; ou (Redação dada, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+VI - houver inconsistência entre a transação e os parâmetros atribuídos às transações com finalidade de saque ou de troco, inclusive no que se refere aos limites de valor estabelecidos pelo Banco Central do Brasil em documento específico, à natureza jurídica do usuário recebedor e aos participantes que podem iniciar transações com essas finalidades. (Incluído, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+Parágrafo único.  Para fins de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, todas as operações, inclusive as rejeitadas, deverão ser monitoradas e tratadas nos termos da Circular nº 3.978, de 23 de janeiro de 2020. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 38-A.  Uma transação no âmbito do Pix deverá ser rejeitada pelo participante iniciador quando houver fundada suspeita de fraude. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Parágrafo único.  Aplica-se ao participante iniciador, no que couber, o disposto no parágrafo único do art. 38. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 39.  Uma transação no âmbito do Pix deverá ser rejeitada pelo participante prestador de serviço de pagamento do usuário recebedor quando:
+I - houver fundada suspeita de fraude; (Redação dada, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+II - houver problemas na identificação do usuário recebedor; ou (Redação dada, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+III - o agente de saque, nas transações com finalidade de saque ou de troco, não tiver sido habilitado para viabilizar a facilitação de serviço de saque, nos termos definidos pelo Banco Central do Brasil em documento específico. (Incluído, a partir de 1º/2/2022, pela Resolução BCB nº 181, de 25/1/2022.)
+Art. 39-A.  Uma transação no âmbito do Pix poderá ser rejeitada pelo participante prestador de serviço de pagamento do usuário recebedor quando houver inconsistência entre a transação e os parâmetros atribuídos à cobrança que a originou, quando se tratar do produto Pix Cobrança. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 39-B.  Os recursos oriundos de uma transação no âmbito do Pix deverão ser bloqueados cautelarmente pelo participante prestador de serviço de pagamento do usuário recebedor quando houver suspeita de fraude. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 1º  A avaliação de suspeita de fraude deve incluir: (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+I - a quantidade de notificações de infração vinculadas ao usuário recebedor; (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - o tempo decorrido desde a abertura da conta transacional pelo usuário recebedor; (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+III - o horário e o dia da realização da transação; (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+IV - o perfil do usuário pagador, inclusive em relação à recorrência de transações entre os usuários; e (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+V - outros fatores, a critério de cada participante. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 2º  O bloqueio cautelar deve ser efetivado simultaneamente ao crédito na conta transacional do usuário recebedor. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 3º  O participante prestador de serviço de pagamento deverá comunicar imediatamente ao usuário recebedor a efetivação do bloqueio cautelar. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 4º  O bloqueio cautelar durará no máximo 72 horas. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 5º  Durante o período em que os recursos estiverem bloqueados cautelarmente, o participante prestador de serviço de pagamento do usuário recebedor deve avaliar se existem indícios que confiram embasamento à suspeita de fraude. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 6º  Concluída a avaliação de que trata o § 5º: (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+I - os recursos serão devolvidos ao usuário pagador, nos termos do Mecanismo Especial de Devolução, de que trata a Seção II do Capítulo XI, caso se identifique fundada suspeita de fraude na transação; ou (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+II - cessará imediatamente o bloqueio cautelar dos recursos, comunicando-se prontamente o usuário recebedor, nas hipóteses em que não forem identificados indícios de fraude na transação. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 7º  O bloqueio cautelar pode ser efetivado somente em contas transacionais de usuários pessoa natural, excluídos os empresários individuais. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 8º  A possibilidade de realização do bloqueio cautelar de que trata este artigo deverá constar do contrato firmado entre o usuário recebedor e o correspondente prestador de serviço de pagamento, mediante cláusula em destaque no corpo do instrumento contratual, ou por outro instrumento jurídico válido. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 9º  O usuário recebedor poderá solicitar a devolução do Pix em montante correspondente ao valor da transação original enquanto os recursos estiverem cautelarmente bloqueados. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+CAPÍTULO XI
+DA DEVOLUÇÃO DE TRANSAÇÕES
+Seção I
+Dos aspectos gerais
+(Denominação incluída, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 40.  Poderão ser objeto de devolução, total ou parcial, os recursos de determinada transação realizada cujos fundos já se encontrem disponíveis na conta transacional do usuário recebedor.
+§ 1º  Ressalvado o disposto na Seção II deste Capítulo, a devolução de um Pix deve ser iniciada pelo usuário recebedor, por conta própria ou por solicitação do usuário pagador. (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 2º  É permitida a realização de múltiplas devoluções parciais de uma mesma transação, até que se alcance o valor total a ser devolvido. (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 40-A.  Quando a transação objeto da devolução, nos termos do art. 40, for um Pix com finalidade de saque ou de troco, a devolução deve ser iniciada pelo facilitador de serviço de saque, quando o serviço for facilitado diretamente por ele, ou pelo agente de saque, e deve ser admitida nas seguintes hipóteses: (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+I - erro na transação ocasionado pelo facilitador de serviço de saque ou pelo agente de saque; ou (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+II - desacordo entre as partes, previamente à entrega de recursos em espécie. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 1º  Nas hipóteses de que trata o caput, o usuário pagador deverá manifestar-se imediatamente solicitando a devolução ao facilitador de serviço de saque, se o serviço foi facilitado diretamente por ele, ou ao agente de saque, conforme o caso. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+§ 2º  Quando o serviço for disponibilizado em canais de atendimento eletrônicos, o facilitador de serviço de saque ou o agente de saque, conforme o caso, deverá disponibilizar mecanismo que possibilite a manifestação imediata de que trata o § 1º pelo usuário pagador nesses canais. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 41.  O usuário recebedor, na iniciação da devolução, deve informar ao seu prestador de serviço de pagamento o valor da devolução. (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  (Revogado, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 1º  O participante deve debitar o valor informado na conta transacional do usuário recebedor, após sua autorização, e remeter os fundos ao participante prestador de serviço de pagamento do usuário pagador, informando o motivo da devolução. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 2º  Quando a transação objeto da devolução for um Pix com finalidade de saque, o facilitador de serviço de saque ou o agente de saque, conforme o caso, deverá iniciá-la em até 1 (uma) hora, uma vez que verifique que a devolução é devida. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+§ 3º  Relativamente ao Pix Troco, deverá ser realizada transação específica para a devolução dos valores em espécie disponibilizados, quando for o caso, separada da devolução do valor da compra. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+§ 4º  Quando a transação objeto da devolução for um Pix com finalidade de troco, o facilitador de serviço de saque ou o agente de saque, conforme o caso, deverá iniciar a devolução da parcela relativa à disponibilização de recursos em espécie em até 1 (uma) hora, uma vez que verifique que a devolução é devida. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 41-A.  Todas as devoluções realizadas no âmbito do Pix, inclusive aquelas de que trata a Seção II deste Capítulo: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+I - pressupõem a existência de recursos suficientes na conta transacional do usuário recebedor, nos termos do contrato mantido com o correspondente participante prestador de serviço de pagamento; e (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+II - deverão ser iniciadas em até 90 (noventa) dias contados da data em que houver sido realizada a transação original, exceto quando se tratar de um Pix com finalidade de saque ou da parcela de um Pix com finalidade de troco relativa à disponibilização de recursos em espécie. (Redação dada pela Resolução BCB nº 167, de 24/11/2021.)
+
+
+Seção II
+Do Mecanismo Especial de Devolução
+(Seção II incluída, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 41-B.  O Mecanismo Especial de Devolução é o conjunto de regras e de procedimentos operacionais destinado a viabilizar a devolução de um Pix nos casos em que exista fundada suspeita do uso do arranjo para a prática de fraude e naqueles em que se verifique falha operacional no sistema de tecnologia da informação de qualquer dos participantes envolvidos na transação. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  (Revogado pela Resolução BCB nº 167, de 24/11/2021.)
+§ 1º  Não se incluem nas hipóteses de devolução de que trata o caput: (Incluído pela Resolução BCB nº 167, de 24/11/2021.)
+I - as controvérsias relacionadas a aspectos do negócio jurídico subjacente à transação de pagamento; e (Incluído pela Resolução BCB nº 167, de 24/11/2021.)
+II - as transações com fundada suspeita de fraude em que os recursos forem destinados à conta transacional de um terceiro de boa-fé. (Incluído pela Resolução BCB nº 167, de 24/11/2021.)
+§ 2º  O Mecanismo Especial de Devolução não se aplica ao Pix com finalidade de saque ou à parcela do Pix com finalidade de troco relativa à disponibilização de recursos em espécie. (Incluído pela Resolução BCB nº 167, de 24/11/2021.)
+Art. 41-C.  As devoluções no âmbito do Mecanismo Especial de Devolução serão iniciadas pelo participante prestador de serviço de pagamento do usuário recebedor: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+I - por iniciativa própria, caso a conduta supostamente fraudulenta tenha sido identificada pelo participante ou a falha operacional tenha ocorrido no âmbito de seus sistemas, ou após bloqueio cautelar, caso o participante avalie que a transação tenha fundada suspeita de fraude; ou (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - por solicitação do participante prestador de serviço de pagamento do usuário pagador, por meio do DICT, caso ele próprio identifique a conduta supostamente fraudulenta ou receba uma reclamação do usuário pagador, ou a falha operacional tenha ocorrido no âmbito dos sistemas desse participante. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 1º  A possibilidade de devoluções e de bloqueios dos recursos realizados no âmbito do Mecanismo Especial de Devolução, inclusive a possibilidade de devoluções e de bloqueios parciais durante o período previsto para a efetivação de devoluções de que trata o art. 41-A, deverá constar do contrato firmado entre o usuário recebedor e o correspondente prestador de serviço de pagamento, mediante cláusula em destaque no corpo do instrumento contratual ou por outro instrumento jurídico válido. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 2º  (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 41-D.  As devoluções de que trata o inciso II do art. 41-C, quando decorrentes de fundada suspeita de fraude: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+I - ficarão condicionadas à abertura e à conclusão, com a aceitação do participante prestador de serviço de pagamento do usuário recebedor, do procedimento de notificação de infração relativo à transação a ser devolvida, de que trata o Capítulo XIII, Seção III, Subseção IX; e (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+II - implicarão o bloqueio imediato, na conta transacional do usuário recebedor, dos valores cuja devolução é solicitada, ou, sendo menor, do valor correspondente ao saldo nela disponível. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  Em caso de devolução em valor inferior ao da transação original, o participante deverá realizar múltiplos bloqueios ou devoluções parciais a partir da conta transacional do usuário recebedor, sempre que recursos sejam nela creditados, até que se alcance: (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+I - o valor total da transação objeto da solicitação de devolução; ou (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - noventa dias, contados a partir da transação original. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 41-E.  O rito para a realização das devoluções de que trata o inciso II do art. 41-C, inclusive os prazos máximos para a manutenção do bloqueio de recursos na conta transacional do usuário recebedor e para a concretização da devolução, está detalhado no Manual Operacional do DICT. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 41-F.  O usuário recebedor dos recursos cuja devolução é pleiteada será prontamente comunicado sobre a efetivação: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+I - do bloqueio de recursos em sua conta transacional na forma do inciso II do art. 41-D; e (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+II - da concretização de uma devolução realizada ao amparo do Mecanismo Especial de Devolução. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 41-G.  O usuário recebedor pode solicitar, no prazo de 30 (trinta) dias contado da comunicação de que trata o inciso II do art. 41-F, o cancelamento da devolução. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  O cancelamento da devolução observará, no que couber, o rito para a realização das devoluções de que trata o inciso II do art. 41-C. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 41-H.  As devoluções realizadas no âmbito do Mecanismo Especial de Devolução são de responsabilidade do participante que as houver solicitado, observado o disposto no art. 41-I. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 41-I.  Observado o disposto no inciso I do art. 41-A, o participante prestador de serviço de pagamento do usuário recebedor responderá pelos eventuais prejuízos causados pela não devolução dos recursos quando: (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+I - rejeitar, sem justo motivo, a notificação de infração de que trata o art. 78-F, quando vinculada a uma solicitação de devolução; (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - recusar a devolução por ausência da autorização de que trata o § 2º do art. 41-C. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 42. (Revogado, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+CAPÍTULO XII
+DO SERVIÇO DE PROVIMENTO DE LIQUIDEZ
+Art. 43.  O Banco Central do Brasil ofertará serviço de provimento de liquidez aos participantes diretos do SPI, na forma definida no Regulamento do SPI.
+Art. 44.  Complementarmente aos mecanismos ofertados pelo Banco Central do Brasil, as câmaras e os prestadores de serviços de compensação e de liquidação também poderão ofertar mecanismos de provimento de liquidez, desde que observadas as regras, os procedimentos e as condições dispostos nos regulamentos dos correspondentes sistemas e no Regulamento do SPI.
+
+
+CAPÍTULO XIII
+DO DICT
+Art. 45.  O DICT é um componente do Pix que armazena as informações dos usuários finais e das correspondentes contas transacionais, com a finalidade de facilitar o processo de iniciação de transações de pagamento pelos usuários pagadores, de mitigar o risco de fraude em transações no âmbito do Pix e de suportar funcionalidades que contribuem para o bom funcionamento do arranjo.
+Parágrafo único.  As seguintes chaves Pix podem ser utilizadas para vinculação às contas transacionais:
+I - número de telefone celular;
+II - endereço de correio eletrônico (e-mail);
+III - número de inscrição no CPF;
+IV - número de inscrição no CNPJ; e
+V - chave aleatória.
+
+
+Seção I
+Da estrutura e da conexão
+Art. 46.  O DICT é um sistema tecnológico, operado pelo Banco Central do Brasil, conectado à Rede do Sistema Financeiro Nacional (RSFN), com redundância de instalações físicas, de estruturas de processamento e de comunicação, conforme padrões estabelecidos no Manual de Redes do SFN e no Manual de Segurança do SFN.
+Art. 47.  A conexão dos participantes do Pix ao DICT é feita por intermédio da RSFN.
+§ 1º  A conexão à RSFN pelos participantes do Pix é feita por meio da contratação de circuitos das operadoras de telecomunicação independentes que proveem a rede, ou por intermédio dos Provedores de Serviços de Tecnologia da Informação (PSTI) autorizados pelo Banco Central do Brasil.
+§ 2º  A conexão entre um participante do Pix com acesso direto ao DICT e um participante do Pix sem acesso direto ao DICT é definida entre as partes, observando-se o disposto no Manual da RSFN e no Manual de Segurança do SFN.
+
+
+Seção II
+Do acesso
+Art. 48.  Os participantes do Pix devem acessar o DICT de forma direta ou indireta.
+§ 1º  O acesso direto ao DICT é obrigatório para todos os participantes do Pix que sejam participantes diretos do SPI.
+§ 2º  O acesso indireto ao DICT pelo participante provedor de conta transacional deve ser realizado por meio de um participante do Pix com acesso direto ao DICT, devendo incluir, no mínimo, a realização de ordens de registro, de exclusão, de portabilidade, de reivindicação de posse, de verificação de sincronismo e de consulta. (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 3º  A relação entre o participante do Pix com acesso direto e o participante do Pix com acesso indireto deve reger-se por meio de contrato comercial bilateral, observados os requisitos e os procedimentos previstos neste Regulamento.
+§ 4º  O acesso indireto ao DICT pelo participante iniciador deve ser realizado por meio de um participante do Pix com acesso direto ao DICT, devendo incluir a realização de consulta e, quando ofertada, de verificação de chaves Pix registradas. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 5º  É vedado ao participante iniciador prestar serviço de acesso ao DICT. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 6º  O disposto no caput não se aplica ao participante iniciador que fornecer, para o participante provedor de conta transacional, as informações previstas no art. 5º, § 1º, sem a necessidade de acessar o DICT. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 49.  A solicitação de acesso ao DICT e a opção pela forma de acesso fazem parte do procedimento para solicitação de participação no Pix.
+Art. 50.  O participante do Pix pode, a qualquer tempo, solicitar ao Banco Central do Brasil a alteração da forma de acesso ao DICT, observadas as condições previstas neste Regulamento.
+
+
+Subseção I
+Da exclusão e da suspensão de acesso
+Art. 51.  A exclusão ou a suspensão da participação no Pix implica a imediata exclusão ou suspensão do acesso ao DICT, inclusive para fins de acesso indireto.
+
+
+Subseção II
+Dos deveres dos participantes do Pix com acesso ao DICT
+Art. 52.  Os participantes do Pix com acesso direto ao DICT têm o dever de:
+I - zelar pela segurança e pelo sigilo das ordens por ele emitidas e recebidas e pelo bom funcionamento do DICT;
+II - informar ao Banco Central do Brasil, imediatamente, qualquer irregularidade observada no funcionamento do DICT;
+III - manter-se conectado ao DICT, em condições de emitir e receber mensagens, durante todo o período de funcionamento do DICT;
+IV - pagar tempestivamente os valores devidos, na forma da Seção VI deste Capítulo;
+V - prover adequadamente o serviço de acesso para os participantes do Pix com acesso indireto ao DICT com os quais estabelecer relacionamento, nos termos deste Regulamento e do contrato comercial bilateral assinado entre as partes;
+VI - não utilizar, para fins comerciais, as informações obtidas a partir das ordens enviadas pelas instituições com as quais estabelecer relação para prestação de serviço de acesso ao DICT;
+VII - manter uma base de dados interna que replique os registros no DICT para as chaves Pix vinculadas às contas transacionais de seus usuários finais;
+VIII - manter atualizados os registros de sua base de dados interna em relação aos registros do DICT;
+IX - disponibilizar chave Pix em sua base de dados interna somente após a confirmação de sua atualização no DICT; e
+X - observar as demais regulamentações e padrões técnicos emanados pelo Banco Central do Brasil, no que aplicáveis.
+Art. 53.  Os participantes do Pix com acesso indireto ao DICT têm o dever de:
+I - zelar pela segurança e pelo sigilo das informações enviadas e obtidas por meio do DICT;
+II - manter uma base de dados interna que replique os registros do DICT para as chaves Pix vinculadas às contas transacionais de seus usuários finais;
+III - manter atualizados os registros de sua base de dados interna em relação aos registros do DICT; e
+IV - disponibilizar chave Pix, em sua base de dados interna, somente após a confirmação de sua atualização no DICT.
+Parágrafo único.  A base de dados interna, de que trata o inciso III do caput, pode ser mantida pelo participante do Pix que provê serviço de acesso direto ao DICT para o participante do Pix com acesso indireto.
+
+
+Seção III
+Das funcionalidades
+Art. 54.  As seguintes funcionalidades, associadas às chaves Pix, estão disponíveis para os participantes provedores de conta transacional ou liquidantes especiais do Pix com acesso direto ao DICT: (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+I - registro: permite a vinculação de uma chave Pix a uma conta transacional;
+II - exclusão: permite a remoção do vínculo existente entre uma chave Pix e uma conta transacional;
+III - alteração: permite a alteração das informações vinculadas à chave Pix relativas ao nome completo, ao nome empresarial, ao título do estabelecimento, ao número da conta transacional e ao número da agência vinculada à conta transacional; (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+IV - portabilidade: permite a transferência do vínculo de determinada chave Pix da conta transacional original para uma nova conta transacional de mesma titularidade, mantida no participante reivindicador;
+V - reivindicação de posse: permite a transferência do vínculo de determinada chave Pix da conta transacional original para uma nova conta transacional, de titularidade diferente, mantida no participante reivindicador;
+VI - verificação de sincronismo: permite a obtenção de informações relativas às chaves Pix vinculadas às contas transacionais mantidas em determinado participante, com a finalidade de possibilitar a realização das verificações necessárias para que sua base de dados interna reflita as informações constantes no DICT;
+VII - consulta: permite a consulta às informações da conta transacional do usuário recebedor vinculada a determinada chave Pix e a disponibilização de informações dessa conta para o usuário pagador; (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+VIII - notificação de infração: permite a notificação de infração, por suspeita de fraude na transação; (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+IX - verificação de chaves Pix registradas: permite verificar se uma determinada chave Pix está registrada no DICT; (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+X - solicitação de devolução: permite a solicitação de devolução de uma transação Pix; e (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+XI - consulta a informações vinculadas às chaves Pix para fins de segurança do Pix. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+ Art. 54-A.  Os participantes iniciadores com acesso direto ao DICT têm acesso somente às funcionalidades previstas no art. 54, incisos VII e IX.  (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 55.  O Banco Central do Brasil estabelecerá, no Manual de Tempos do Pix, o nível de serviço para a execução das funcionalidades disponibilizadas pelo DICT.
+
+
+Subseção I
+Do registro das chaves Pix e da vinculação a contas transacionais
+Art. 56.  O registro das chaves Pix no DICT deve ser solicitado pelo participante do Pix, a pedido do usuário.
+Parágrafo único.  O participante do Pix deve solicitar o registro da chave Pix, sem necessidade de anuência do usuário final, em caso de identificação de necessidade de ajuste após processo de verificação de sincronismo de chaves Pix, conforme disposto na Subseção VI desta Seção.
+Art. 57.  Para solicitar o registro das chaves Pix, o participante do Pix deve:
+I - validar a posse da chave junto ao usuário final, conforme definido no Manual Operacional do DICT; e
+II - obter o consentimento do usuário final.
+§ 1º  O disposto no inciso I do caput não se aplica às chaves aleatórias geradas pelo DICT.
+§ 2º  Para fins do disposto no inciso II do caput, o consentimento refere-se:
+I - à solicitação feita pelo usuário final ao participante do Pix de registro de chave Pix; ou
+II - à confirmação e aceitação de recebimento pelo usuário final de oferta de registro de chave Pix feita pelo participante do Pix.
+§ 3º  O consentimento de que trata o inciso II do caput deve ser formalizado por meio da aceitação pelo usuário final de termo de consentimento específico para essa finalidade, que deverá observar as disposições aplicáveis da Lei nº 13.709, de 14 de agosto de 2018.
+Art. 58.  O DICT acatará todos os pedidos de registro recebidos dos participantes do Pix com acesso direto, exceto os pedidos:
+I - referentes a chave Pix já registrada;
+II - referentes a chave Pix vinculada a conta transacional mantida por outro participante do Pix, caso o solicitante do registro não preste serviço de acesso ao DICT para o participante do Pix em questão; ou
+III - com erro de sintaxe ou no preenchimento da ordem de registro.
+§ 1º  O DICT retornará mensagem de erro específica, identificando o motivo para a falha no registro solicitado.
+§ 2º  No caso de chave aleatória, o DICT gerará aleatoriamente o número correspondente, previamente ao registro.
+Art. 59.  O DICT armazena as seguintes informações vinculadas à chave Pix:
+I - Código ISPB do participante do Pix;
+II - (Revogado, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+III - número da agência vinculada à conta transacional do usuário final, se houver;
+IV - número da conta transacional do usuário final;
+V - tipo da conta transacional do usuário final;
+VI - nome completo do usuário final pessoa natural, podendo, a critério do usuário final, ser o nome civil, conforme registrado no CPF, ou o nome social, caso esteja registrado em documento de identidade legalmente válido; (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+VII - nome empresarial do usuário final pessoa jurídica, conforme registrado no CNPJ; (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+VIII - número de inscrição do usuário final no CPF ou no CNPJ, conforme o caso; e (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+IX - título do estabelecimento (nome de fantasia) do usuário final, se registrado no CNPJ. (Incluído, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+Parágrafo único.  (Revogado, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 1º  O DICT poderá, a critério do Banco Central do Brasil, armazenar outras informações para fins de segurança e do bom funcionamento do Pix. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+§ 2º  As informações vinculadas às chaves Pix para fins de segurança do Pix de que trata o § 1º serão detalhadas no Manual Operacional do DICT. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+Subseção II
+Da exclusão das chaves Pix
+Art. 60.  A exclusão das chaves Pix do DICT deve ser solicitada pelo participante do Pix, a pedido do usuário final.
+Parágrafo único.  O participante do Pix deve solicitar a exclusão da chave Pix, sem necessidade de anuência do usuário final, em caso de:
+I - encerramento da conta transacional do usuário final;
+II - suspeita, tentativa ou efetivação de uso fraudulento da chave Pix; ou (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+III - identificação da necessidade de ajuste após processo de verificação de sincronismo de chaves, conforme disposto na Subseção VI desta Seção. (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+IV - (Revogado, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 61.  O participante do Pix somente acatará a solicitação para exclusão de chave Pix cujo registro tenha sido requerido pelo usuário final solicitante.
+Art. 62.  O participante do Pix somente poderá solicitar exclusão da chave cujo registro tenha sido solicitado por ele.
+Art. 63.  As chaves Pix vinculadas às contas transacionais mantidas em participante do Pix com acesso ao DICT excluído serão excluídas do DICT imediatamente após a determinação da exclusão.
+
+
+
+
+Subseção III
+Da alteração de informações vinculadas à chave Pix
+(Denominação alterada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+Art. 64.  A alteração de informações vinculadas à chave Pix deve ser solicitada pelo participante do Pix. (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+Art. 65.  A alteração de informações vinculadas à chave Pix é uma funcionalidade cuja oferta é facultativa pelos participantes do Pix com acesso direto ou indireto ao DICT. (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+Art. 66.  A alteração pode ser solicitada para as seguintes chaves Pix:
+I - número de telefone celular;
+II - endereço de correio eletrônico (e-mail);
+III - número de inscrição no CPF;
+IV - número de inscrição no CNPJ; e
+V - chave aleatória gerada pelo DICT.
+Art. 67.  A alteração de informações vinculadas à chave Pix pode ser solicitada: (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+I - a pedido do usuário final ao qual a chave está vinculada, no caso em que houver alteração do nome completo, do nome empresarial, do título do estabelecimento, do número da agência ou do número da agência e da conta transacional; ou (Redação dada, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+II - independentemente de pedido do usuário final, no caso em que houver alteração dos identificadores de agência ou de agência e de conta, no mesmo participante, mantida sua titularidade pelo usuário final.
+Parágrafo único.  A chave discriminada no inciso V do art. 66 não pode ser objeto da solicitação de que trata o inciso I do caput.
+
+
+Subseção IV
+Da portabilidade das chaves Pix
+Art. 68.  A portabilidade das chaves Pix no DICT deve ser solicitada pelo participante reivindicador, a pedido do usuário final:
+I - em decorrência do processo de registro de chave; ou
+II - por meio de funcionalidade específica disponível em canal de atendimento.
+Art. 69.  A portabilidade pode ser solicitada para as seguintes chaves Pix:
+I - número de telefone celular;
+II - endereço de correio eletrônico (e-mail);
+III - número de inscrição no CPF; e
+IV - número de inscrição no CNPJ.
+
+
+Subseção V
+Da reivindicação de posse das chaves Pix
+Art. 70.  A reivindicação de posse das chaves Pix no DICT deve ser solicitada pelo participante reivindicador, a pedido do usuário final, em decorrência do processo de registro de chave.
+Art. 71.  A reivindicação de posse pode ser solicitada para as seguintes chaves Pix:
+I - número de telefone celular; e
+II - endereço de correio eletrônico (e-mail).
+
+
+Subseção VI
+Da verificação de sincronismo das chaves Pix
+Art. 72.  Os participantes do Pix poderão emitir os seguintes tipos de ordens para verificação de sincronismo, por tipo de chave Pix, nos termos do parágrafo único do art. 45:
+I - agregada; e
+II - individualizada.
+Art. 73.  Caso seja identificada divergência entre as chaves Pix registradas no DICT e aquelas registradas em sua base de dados interna, o participante do Pix deverá adotar as medidas necessárias para que ambas as bases reflitam os mesmos registros.
+Art. 74.  O DICT disponibilizará ao participante do Pix arquivo específico, em resposta à ordem individualizada para a verificação de sincronismo das chaves Pix.
+
+
+Subseção VII
+Da consulta às chaves Pix
+Art. 75.  As consultas ao DICT devem ser feitas com o propósito de: (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+I - iniciar um Pix; (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - identificar os dados da conta transacional vinculada à chave Pix para fins de credenciamento da conta para estabelecimento de limite diferenciado de valor; ou (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+III - executar verificações de segurança, pelo detentor da conta, em transações iniciadas por meio de serviço de iniciação de transação de pagamento. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 76.  Não se admitem consultas de chaves Pix quando o participante prestador de serviço de pagamento do usuário recebedor for o mesmo participante prestador de serviço de pagamento do usuário pagador.
+Art. 77.  O DICT retornará todas as informações vinculadas à chave Pix consultada para o participante do Pix que enviou a ordem de consulta, inclusive eventuais informações registradas para fins de segurança.
+Parágrafo único.  Caso a chave consultada não esteja registrada, o DICT enviará mensagem específica de erro.
+Art. 78.  Os dados que o participante do Pix deve disponibilizar para o usuário pagador estarão dispostos no manual de Requisitos Mínimos para a Experiência do Usuário. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+I - (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+III - (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+
+
+Subseção VIII
+Da verificação de chaves Pix registradas
+(Subseção VIII incluída, a partir de 1º/4/2021, pela Resolução BCB nº 79, de 18/3/2021.)
+Art. 78-A.  A verificação de chaves Pix registradas será solicitada por participante do Pix mediante iniciativa própria.
+Art. 78-B.  A verificação de chaves Pix registradas é uma funcionalidade cuja oferta é facultativa pelos participantes do Pix com acesso direto ou indireto ao DICT.
+Art. 78-C.  O DICT retornará, para o participante do Pix que enviou a ordem de verificação de chaves Pix registradas, apenas a informação de que as chaves verificadas estão ou não registradas no DICT.
+Art. 78-D.  (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 78-E.  (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+
+
+Subseção IX
+Da notificação de infração
+(Subseção IX incluída, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-F.  A notificação de infração deve ser solicitada pelo participante prestador de serviço de pagamento do usuário pagador ou pelo participante prestador de serviço de pagamento do usuário recebedor sempre que houver fundada suspeita do uso do arranjo para a prática de fraude. (Redação dada, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  A notificação de infração pode ser solicitada para transações: (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+I - liquidadas no SPI; (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+II - liquidadas nos sistemas do próprio participante; ou (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+III - rejeitadas por fundada suspeita de fraude. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-G.  O participante que receber a notificação de infração deverá analisá-la e decidir por aceitá-la ou rejeitá-la. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  O DICT armazenará as informações relativas às notificações de infração apenas nos casos em que a notificação de infração for aceita. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-H.  A notificação de infração pode estar associada a uma solicitação de devolução, de que trata a Subseção X da Seção III deste Capítulo. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  A associação entre a notificação de infração e a solicitação de devolução deve ser identificada pelo participante prestador de serviço de pagamento do usuário pagador no momento da solicitação da notificação de infração. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+Subseção X
+Da solicitação de devolução
+(Subseção X incluída, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-I.  A solicitação de devolução pode ser realizada pelo participante prestador de serviço de pagamento do usuário pagador, por iniciativa própria ou a pedido do usuário, nos casos em que exista fundada suspeita do uso do arranjo para a prática de fraude e naqueles em que se verifique falha operacional no sistema de tecnologia da informação de qualquer dos participantes envolvidos na transação, nos termos da Seção II do Capítulo XI. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-J.  Pode ser aberta apenas uma solicitação de devolução para cada transação Pix. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+Subseção XI
+Da consulta a informações vinculadas às chaves Pix para fins de segurança do Pix
+(Subseção XI incluída, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-K.  A consulta a informações vinculadas às chaves Pix para fins de segurança do Pix deve ser feita com o propósito de alimentar os mecanismos de análise de fraude dos participantes, inclusive em processos que não estejam diretamente relacionados ao Pix. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-L.  A consulta a informações vinculadas às chaves Pix para fins de segurança do Pix deve ser feita exclusivamente por iniciativa do próprio participante, sendo vedada a disponibilização da funcionalidade para os usuários finais. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 78-M.  O DICT retornará exclusivamente as informações registradas para fins de segurança do Pix. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+Seção IV
+Dos dias e do horário de funcionamento
+Art. 79.  Todas as funcionalidades do DICT dispostas na Seção III deste Capítulo estão disponíveis 24 (vinte e quatro) horas por dia, em todos os dias do ano. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 80.  O registro, a exclusão, a portabilidade e a reivindicação de posse devem estar disponíveis para os usuários finais das 8h às 20h, no horário de Brasília, em todos os dias do ano. (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 103, de 8/6/2021, produzindo efeitos a partir de 16/11/2021.)
+Parágrafo único.  A critério de cada participante do Pix, as funcionalidades discriminadas no caput podem ser ofertadas aos usuários finais nos demais horários em que elas estejam disponíveis no DICT.
+Art. 81.  (Revogado, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 82.  Os horários informados pelo DICT e pelos seus participantes obedecerão ao formato UTC, salvo disposição em contrário.
+Parágrafo único.  O horário observado pelos equipamentos do Banco Central do Brasil prevalece sobre qualquer outro para todos os fins.
+
+
+Seção V
+Dos mecanismos de prevenção a ataques de leitura
+Art. 83.  Com o intuito de evitar que usuários finais utilizem as informações contidas no DICT para propósitos distintos da realização de transações de pagamento, o DICT manterá mecanismos de prevenção a ataques de leitura, conforme definido no Manual Operacional do DICT.
+Art. 84.  Os participantes do Pix deverão manter, em sua base de dados interna, mecanismos de prevenção a ataques de leitura.
+Art. 84-A.  Os participantes do Pix deverão manter mecanismos que previnam ataques de leitura, pelos seus clientes, ao DICT, os quais devem ser, no mínimo, iguais aos mecanismos de prevenção a ataques de leitura existentes no DICT e detalhados no Manual Operacional do DICT. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 84-B.  Os participantes do Pix deverão estabelecer procedimento de identificação e de tratamento dos casos de excessivas consultas de chaves Pix, por seus clientes, que: (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+I - não resultem em liquidação; e (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+II - não estejam registradas no DICT. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+Seção VI
+Da cobrança de tarifas relativas ao DICT
+Art. 85.  A utilização do DICT poderá sujeitar o participante com acesso direto ao pagamento de ressarcimento de custos ao Banco Central do Brasil.
+Parágrafo único.  A bilhetagem, a cobrança e o pagamento dos valores devidos ocorrem no âmbito do ressarcimento de custos do Sistema de Informações Banco Central (Sisbacen), na forma da regulamentação própria.
+
+
+CAPÍTULO XIV
+DA EXPERIÊNCIA DO USUÁRIO FINAL
+Art. 86.  Os participantes do Pix devem ofertar ao usuário final uma experiência:
+I - simples;
+II - sem fricções;
+III - em que as opções para a realização das transações sejam fáceis de encontrar nos canais de acesso disponibilizados;
+IV - segura;
+V - com clareza de linguagem nos comandos para a efetivação das transações;
+VI - ágil;
+VII - precisa;
+VIII - transparente; e
+IX - conveniente.
+Parágrafo único.  O disposto no caput inclui as experiências, quando ofertadas, de:
+I - iniciação de um Pix;
+II - recebimento de um Pix;
+III - devolução de um Pix;
+IV - autenticação do usuário final;
+V - registro de chave Pix no DICT;
+VI - exclusão de chave Pix no DICT;
+VII - portabilidade de chave Pix no DICT;
+VIII - reivindicação de posse de chave Pix no DICT.
+
+
+CAPÍTULO XV
+DA COBRANÇA DE TARIFAS AOS USUÁRIOS FINAIS
+Art. 87.  Os participantes do Pix devem divulgar aos usuários finais pessoas naturais e pessoas jurídicas as tarifas, as gratuidades e os eventuais benefícios relativos ao envio e recebimento de um Pix.
+Parágrafo único.  As informações de que trata o caput devem ser divulgadas pelos participantes, no mínimo, em seus sítios eletrônicos na internet, em local e formato de fácil visualização.
+Art. 87-A.  Presume-se a finalidade de transferência para determinada transação:
+I - sendo o usuário recebedor pessoa natural, quando:
+a) o usuário pagador pessoa natural inicia a transação por meio de inserção manual de dados da conta transacional, de chave Pix, de QR Code estático ou de serviço de iniciação de transação de pagamento, nos casos em que o participante possui todas as informações do usuário recebedor, limitadas a 30 (trinta) transações por mês; ou (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+b) o usuário pagador pessoa jurídica inicia a transação por meio de inserção manual de dados da conta transacional, de chave Pix ou de serviço de iniciação de transação de pagamento, nos casos em que o participante possui todas as informações do usuário recebedor; (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+II - sendo o usuário recebedor pessoa jurídica, quando o usuário pagador pessoa jurídica inicia a transação por meio de inserção manual de dados da conta transacional ou de chave Pix.
+Parágrafo único.  O disposto no caput não se aplica na hipótese em que a conta do usuário recebedor pessoa natural mantida no participante do Pix for utilizada exclusivamente para fins comerciais, desde que assim definido no contrato entre as partes.
+(Artigo 87-A incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 87-B.  Considera-se que a transação possui finalidade de compra:
+I - sendo o usuário recebedor pessoa natural, quando:
+a) o usuário pagador pessoa natural inicia a transação por meio de QR Code dinâmico ou outra forma de iniciação associada ao Pix Cobrança;
+b) o usuário pagador pessoa natural inicia a transação por meio de inserção manual de dados da conta transacional, de chave Pix, de QR Code estático ou de serviço de iniciação de transação de pagamento, nos casos em que o participante possui todas as informações do usuário recebedor, a partir da 31ª (trigésima primeira) transação no mês; ou (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+c) o usuário pagador pessoa jurídica inicia a transação por meio de QR Code estático, dinâmico ou outra forma de iniciação associada ao Pix Cobrança;
+II - sendo o usuário recebedor pessoa jurídica, quando:
+a) o usuário pagador é pessoa natural; ou
+b) o usuário pagador pessoa jurídica inicia a transação por meio de: (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+1. serviço de iniciação de transação de pagamento, nos casos em que o participante possui todas as informações do usuário recebedor; ou (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+2.  QR Code estático, dinâmico ou outra forma de iniciação associada ao Pix Cobrança. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+(Artigo 87-B incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 87-C.  As tarifas relacionadas às transações realizadas com a finalidade de transferência podem ser cobradas pelos participantes do Pix provedores de contas transacionais apenas dos usuários pagadores, observadas as vedações definidas em regulamentação específica. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 87-D.  As tarifas relacionadas às transações realizadas com a finalidade de compra podem ser cobradas pelos participantes do Pix provedores de contas transacionais apenas dos usuários recebedores, observadas as vedações definidas em regulamentação específica. (Incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 87-E.  Considera-se que a transação possui a finalidade de saque ou de troco quando realizada pelo usuário pagador, pessoa natural ou pessoa jurídica, no âmbito dos produtos Pix Saque ou Pix Troco, por quaisquer das formas de iniciação previstas no regramento desses produtos. (Incluído, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 87-F.  Não é permitida a cobrança de tarifas, pelos participantes do Pix provedores de contas transacionais e facilitadores de serviço de saque, das pessoas jurídicas que atuem como agentes de saque, relativamente ao recebimento de Pix com finalidade de saque ou, no caso de Pix com finalidade de troco, à parcela dos valores em espécie disponibilizados aos usuários finais pagadores. (Redação dada pela Resolução BCB nº 172, de 9/12/2021.)
+
+
+CAPÍTULO XVI
+DOS RISCOS INCORRIDOS PELOS PARTICIPANTES E CORRESPONDENTES MECANISMOS DE GERENCIAMENTO
+
+
+Seção I
+Aspectos Gerais
+Art. 88.  Ao aderir ao Pix, os participantes declaram estar cientes de que, em decorrência da natureza de suas atividades, estarão sujeitos, em especial, aos seguintes riscos:
+I - operacional, conforme definido no inciso I do art. 2º da Circular nº 3.681, de 4 de novembro de 2013, e regulamentação posterior;
+II - de liquidez, definido, para os fins deste Regulamento, como a falta de recursos suficientes para dar curso a ordens de pagamento dos usuários finais, em acordo com este Regulamento, decorrente de falha do participante:
+a) no planejamento de necessidade de fundos na Conta PI para realização das transações dos usuários finais, próprios ou de participante para o qual preste serviços de liquidação no âmbito do SPI, ou no acesso aos mecanismos de provimento de liquidez;
+b) no planejamento de necessidade de fundos em sua conta no liquidante do SPI para realização das transações dos usuários finais;
+c) nos mecanismos de provimento de liquidez disponíveis, observadas as responsabilidades dos participantes na adimplência de suas obrigações eventualmente assumidas para esse fim.
+
+
+Seção II
+Do Gerenciamento do Risco de Fraude
+Art. 89.  Adicionalmente ao gerenciamento de risco operacional disposto na Seção I deste Capítulo, os participantes do Pix devem adotar mecanismos robustos para garantir a segurança:
+I - do processo de autenticação de usuários pagadores e de identificação de usuários recebedores;
+II - dos procedimentos de iniciação do Pix; e
+III - do processo de abertura de contas transacionais.
+
+
+CAPÍTULO XVII
+DOS CRITÉRIOS E DAS CONDIÇÕES PARA TERCEIRIZAÇÃO DE ATIVIDADES E PARA ESTABELECIMENTO DE PARCERIAS ENTRE PARTICIPANTES DO PIX
+(Denominação alterada, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+Art. 90.  É facultado aos participantes estabelecer relação contratual com terceiros, por meio de contrato específico, para a realização de atividades no âmbito do Pix, ressalvado o disposto no art. 90-A. (Redação dada, a partir de 1º/3/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 1º  O participante deve garantir que o terceiro contratado atuará em conformidade com o disposto neste Regulamento e nos demais dispositivos legais e normativos relativos à matéria, com vistas a assegurar a segurança, a eficiência, a confiabilidade, a integridade, o sigilo e a qualidade do serviço de pagamento.
+§ 2º  Os contratos de que trata o caput devem prever:
+I - a permissão de acesso do Banco Central do Brasil, na qualidade de instituidor do Pix, aos contratos firmados, à documentação e às informações referentes aos produtos e aos serviços fornecidos relativos a atividades realizadas no âmbito do arranjo, às dependências do terceiro contratado e à correspondente documentação relativa aos atos constitutivos, aos registros, aos cadastros e às licenças requeridos pela legislação; e
+II - a possibilidade de adoção de medidas de caráter preventivo e corretivo pelo participante, abrangendo, inclusive, a rescisão do contrato, por sua iniciativa ou por determinação do Banco Central do Brasil.
+§ 3º  O disposto no § 2º não exclui a responsabilidade direta do participante do Pix pelas atividades realizadas por terceiros por ele contratados.
+Art. 90-A.  Na relação contratual de que trata o art. 90, é vedado atribuir: (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+I - ao terceiro detentor de conta transacional, a iniciação ou o recebimento de transações Pix por meio de conta transacional provida pelo próprio terceiro ao usuário final; ou (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - ao terceiro não detentor de conta transacional, a iniciação de transações Pix por meio da conta transacional provida pelo participante. (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 90-B.  (Revogado, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+Art. 90-C.  (Revogado, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+Art. 90-D.  Além dos casos expressamente previstos neste Regulamento, os participantes do Pix podem estabelecer parcerias entre si para permitir que um participante proveja soluções ou serviços específicos a outro participante. (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+§ 1º  Aplicam-se a essas relações contratuais as vedações previstas no art. 90-A. (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+§ 2º  Aplicam-se a essas relações contratuais, no que couber, as regras previstas no § 2º do art. 90. (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+§ 3º  O participante que contrata o provimento de soluções ou de serviços é integralmente responsável pelo cumprimento das exigências deste Regulamento na oferta dos serviços ao usuário final, inclusive nos casos em que as soluções ou os serviços forem providos por outro participante contratado para esse fim. (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+§ 4º  O participante que provê soluções ou serviços a outro participante deve zelar para provê-los em aderência a este Regulamento. (Incluído, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+
+
+CAPÍTULO XVIII
+DA RESOLUÇÃO DE DISPUTAS
+Art. 91.  As divergências, os conflitos e as controvérsias entre participantes e entre participantes e usuários finais a respeito da execução do disposto neste Regulamento serão tratadas, quando não for possível solução entre as partes envolvidas, de acordo com procedimentos definidos pelo Banco Central do Brasil, nos termos de manual específico. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Parágrafo único. Os conflitos e as controvérsias que tenham origem em transações iniciadas por meio de serviço de iniciação de transação de pagamento serão resolvidos: (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+I - mediante os procedimentos de tratamento de demandas previstos na Resolução Conjunta nº 1, de 4 de maio de 2020, quando envolverem, de um lado, usuários e, de outro, participantes que prestam serviço de iniciação de transação de pagamento; ou (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+II - segundo os procedimentos e os mecanismos para o tratamento e a solução de disputas estabelecidos pelas instituições participantes do Open Finance, na forma do art. 44, inciso IV, da Resolução Conjunta nº 1, de 4 de maio de 2020, quando envolverem, de um lado, participantes que prestam serviço de iniciação de transação de pagamento e, de outro, participantes provedores de contas transacionais. (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+
+
+
+
+CAPÍTULO XIX
+DA VERIFICAÇÃO DE ADERÊNCIA DA ATUAÇÃO DOS PARTICIPANTES AO REGULAMENTO E DAS PENALIDADES APLICÁVEIS
+(Denominação alterada pela Resolução BCB nº 161, de 10/11/2021.)
+Art. 91-A.  Os participantes do Pix sujeitam-se à verificação de aderência pelo Banco Central do Brasil relativamente ao cumprimento do disposto neste Regulamento. (Incluído pela Resolução BCB nº 161, de 10/11/2021.)
+Art. 91-B.  O Banco Central do Brasil poderá, a qualquer tempo, notificar os participantes do Pix para que adotem ou cessem determinada prática com vistas a garantir a manutenção da aderência de sua atuação aos termos deste Regulamento. (Incluído pela Resolução BCB nº 161, de 10/11/2021.)
+§ 1º  A notificação de que trata o caput contemplará a indicação da prática a ser adotada ou cessada, o prazo concedido ao participante para o saneamento do problema e, quando for o caso: (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+I - a necessidade de implementação de medidas que evitem a reincidência na conduta; e (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+II - a exigência de que sejam prontamente adotadas medidas emergenciais para mitigar o risco de dano ao Pix ou a seus usuários. (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+§ 2º  Na hipótese de que trata o inciso I do §1º, o participante terá o prazo de até 5 (cinco) dias úteis do recebimento da notificação para submeter ao Banco Central do Brasil plano de ação contemplando as medidas propostas e os correspondentes prazos para sua implementação. (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+§3º  Na hipótese de que trata o inciso II do §1º, o participante deverá comunicar ao Banco Central do Brasil as medidas emergenciais adotadas assim que implementadas. (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+§ 4º  O atendimento ao disposto na notificação de que trata o § 1º deverá ser comprovado de forma inequívoca pelo participante em até 15 (quinze) dias, contados do termo final estipulado pelo Banco Central do Brasil para cumprimento da última medida prevista na notificação. (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+§ 5º  O Banco Central do Brasil poderá, a seu critério, conceder dilação do prazo concedido ao participante para o saneamento do problema, de que trata o § 1º, desde que a solicitação seja devidamente justificada e apresentada antes do vencimento do referido prazo. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 92.  Os participantes do Pix sujeitam-se às penalidades previstas neste Regulamento, no caso de descumprimento, total ou parcial, das disposições deste Regulamento, inclusive no que se refere: (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+I - ao uso indevido da marca Pix;
+II - à utilização do Pix para transações de pagamento ilícitas, que não respeitem seus processos de prevenção conforme definidos nas leis e regulamentos pertinentes;
+III - à não observância dos acordos de nível de serviços previstos no Manual de Tempos do Pix; (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+IV - à quantidade excessiva de reclamações procedentes de usuários finais relativamente ao descumprimento do disposto neste Regulamento;
+V - ao descumprimento de procedimentos tecnológicos, operacionais e de segurança requeridos por este Regulamento;
+VI - ao inadimplemento de quaisquer obrigações financeiras relativas a tarifas cobradas no âmbito do Pix;
+VII - à falta de diligência do participante responsável no cumprimento de seus deveres relativamente à atuação do participante contratante; e (Redação dada, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+VIII - à adoção de quaisquer outras condutas capazes de comprometer a credibilidade ou de impactar negativamente a imagem ou a integridade do Pix. (Redação dada, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+IX - (Revogado, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+§ 1º  Na hipótese em que a conduta do participante do Pix descrita no caput também constituir infração à regulação do Sistema Financeiro Nacional ou do Sistema de Pagamentos Brasileiro, a notificação de que trata o art. 91-B poderá ser suspensa. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 2º  Não será aplicada a penalidade de multa de que trata o art. 93, inciso I, caso a apuração decorrente da infração à regulação do Sistema Financeiro Nacional ou do Sistema de Pagamentos Brasileiro resulte em aplicação de penalidade ou em assinatura de termo de compromisso, ou ainda se houver decisão que reconheça a não autoria da conduta. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+§ 3º No caso de aplicação de penalidade ou de assinatura de termo de compromisso decorrente de infração à regulação do Sistema Financeiro Nacional ou do Sistema de Pagamentos Brasileiro, a conduta que a originou será considerada para fins do disposto no § 1º do art. 93-A. (Incluído, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+Art. 93.  São aplicáveis as seguintes penalidades aos participantes do Pix, de forma isolada ou cumulativa:
+I - multa;
+II - suspensão; e
+III - exclusão.
+Art. 93-A  Ficam isentas da multa prevista no inciso I do art. 93 as infrações previstas no inciso I do art. 5º do Manual de Penalidades do Pix, que, em tese, ensejariam a aplicação dessa penalidade, desde que: (Redação dada pela Resolução BCB nº 176, de 22/12/2021.)
+I - a irregularidade seja sanada pelo participante antes do envio da notificação de que trata o art. 91-B ou, uma vez enviada a notificação, sejam cumpridas as exigências dela constantes; e (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+II - seja adotada, por iniciativa do participante, a reparação de eventuais danos causados a outros participantes do Pix, quando aplicável. (Incluído pela Resolução BCB nº 161, de 10/11/2021.)
+§ 1º Não se aplica o disposto no caput quando houver reincidência na mesma conduta ou omissão em período inferior a 360 (trezentos e sessenta) dias. (Incluído pela Resolução BCB nº 161, de 10/11/2021.)
+§ 2º O disposto neste artigo não afasta a aplicação das demais penalidades previstas neste Regulamento. (Incluído pela Resolução BCB nº 161, de 10/11/2021.)
+Art. 93-B.  O participante facultativo que seja notificado por duas vezes no mesmo ano-calendário, nos termos do art. 91-B, em virtude da identificação da conduta prevista na alínea “c” do inciso I do art. 5º do Manual de Penalidades, poderá solicitar, no prazo de 15 (quinze) dias, a sua saída do arranjo, ficando dispensado do cumprimento do prazo previsto no art. 30 deste Regulamento. (Incluído pela Resolução BCB nº 176, de 22/12/2021.)
+Parágrafo único.  Concluída a saída do participante nos 15 (quinze) dias seguintes à solicitação, fica afastada a aplicação de penalidade à conduta que ensejou notificação de que trata o caput. (Incluído pela Resolução BCB nº 176, de 22/12/2021.)
+Art. 94.  Na aplicação das penalidades de que trata este Capítulo, o Banco Central do Brasil observará o direito do participante ao contraditório e à ampla defesa e seguirá o rito e as condições estabelecidas no Manual de Penalidades.
+Art. 95.  Aplica-se o disposto neste Capítulo às instituições em processo de adesão ao Pix, nos termos do disposto na Seção II do Capítulo VII.
+
+
+CAPÍTULO XIX-A
+DA SUSPENSÃO CAUTELAR
+(Capítulo XIX-A incluído, a partir de 3/11/2020, pela Resolução BCB nº 30, de 29/10/2020.)
+Art. 95-A.  O Banco Central do Brasil poderá suspender cautelarmente, a qualquer tempo, a participação no Pix do participante cuja conduta esteja colocando em risco o regular funcionamento do arranjo de pagamentos.
+§ 1º  A suspensão cautelar de que trata o caput terá eficácia imediata e duração máxima de 60 (sessenta) dias, contados da data da comunicação da medida ao participante, observado o disposto no § 3º.
+§ 2º  Determinada a suspensão cautelar, será instaurado pelo Banco Central do Brasil, no prazo de 10 (dez) dias, contados da data da comunicação da medida, procedimento para a aplicação de penalidades, na forma prevista no art. 94, oportunidade em que será garantido ao participante o direito ao contraditório e à ampla defesa.
+§ 3º  Desde que o procedimento para aplicação de penalidades seja instaurado no prazo previsto no § 2º, a suspensão cautelar conservará sua eficácia até que a decisão final no âmbito desse procedimento comece a produzir efeitos, podendo a medida ser revista, de ofício ou a requerimento do participante, se cessarem as circunstâncias que a determinaram.
+§ 4º  A suspensão cautelar poderá ser aplicada a um único componente do Pix, caso a conduta geradora da suspensão esteja colocando em risco apenas aspectos relacionados a esse componente. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+CAPÍTULO XX
+DA ESTRUTURA DE TARIFAS E DE RESSARCIMENTO DE CUSTOS OPERACIONAIS ENTRE PARTICIPANTES
+(Denominação alterada pela Resolução BCB nº 172, de 9/12/2021.)
+
+
+Art. 96.  Fica vedada a cobrança de tarifas ou outras formas de remuneração, de forma direta ou indireta, entre participantes prestadores de serviço de pagamento do usuário recebedor e participantes prestadores de serviço de pagamento do usuário pagador, ressalvado o disposto no art. 96-A deste Regulamento. (Redação dada, a partir de 1º/11/2021, pela Resolução BCB nº 135, de 2/9/2021.)
+Art. 96-A.  (Revogado pela Resolução BCB nº 172, de 9/12/2021.)
+Art. 96-B.  Aplica-se ao Pix com finalidade de saque ou de troco o ressarcimento de custos operacionais, devido pelo participante provedor de conta transacional do usuário pagador. (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+§ 1º  O ressarcimento de custos operacionais incidirá sobre cada Pix com finalidade de saque ou sobre a parcela referente aos valores em espécie disponibilizados em cada Pix com finalidade de troco. (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+§ 2º  O participante provedor de conta transacional do usuário pagador deverá efetuar ressarcimento de custos operacionais no valor de: (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+I - R$1,00 (um real), nas transações em que o serviço de saque for facilitado por agente de saque que for estabelecimento comercial de qualquer natureza; (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+II - R$1,50 (um real e cinquenta centavos), nas transações em que o serviço de saque for facilitado diretamente pelo próprio facilitador de serviço de saque; ou (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+III - R$2,00 (dois reais), nas transações em que o serviço de saque for facilitado por agente de saque que for: (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+a) outra pessoa jurídica que tenha como atividade principal ou secundária a prestação de serviços auxiliares a serviços financeiros ou afins; ou (Incluída pela Resolução BCB nº 172, de 9/12/2021.)
+b) correspondente no País. (Incluída pela Resolução BCB nº 172, de 9/12/2021.)
+§ 3º  O ressarcimento de custos operacionais de que trata o inciso I do § 2º deverá ser efetuado: (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+I - para o facilitador de serviço de saque, no valor de R$0,95 (noventa e cinco centavos de real); e (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+II - para o prestador de serviços de pagamento do agente de saque, no valor de R$0,05 (cinco centavos de real). (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+§ 4º  O ressarcimento de custos operacionais de que tratam os incisos II e III do § 2º deverá ser efetuado para o facilitador de serviço de saque. (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+§ 5º  O facilitador de serviço de saque deverá distribuir para o agente de saque: (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+I - no mínimo R$0,25 (vinte e cinco centavos de real), nas transações de que trata o inciso I do § 2º; e (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+II - valor livremente pactuado entre as partes, nas transações de que trata o inciso III do § 2º. (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+§ 6º  Os procedimentos operacionais para a cobrança e para a efetuação do ressarcimento de custos operacionais de que trata o caput constarão em documento específico divulgado pelo Banco Central do Brasil. (Incluído pela Resolução BCB nº 172, de 9/12/2021.)
+
+
+CAPÍTULO XXI
+DISPOSIÇÕES GERAIS
+Art. 97.  Não se aplica o disposto nos arts. 6º e 7º e nos Capítulos V, X, XI, XIII, XV, XVI, XVII, XVIII e XIX à Secretaria do Tesouro Nacional.
+§ 1º  É facultativo o acesso da Secretaria do Tesouro Nacional ao DICT.
+§ 2º  Caso a Secretaria do Tesouro Nacional opte por acessar o DICT, não se aplica o disposto nos arts. 57, 60 e 78.
+Art. 98.  Não se aplica o disposto nos Capítulos V, XI e XIV aos participantes que atuarem exclusivamente na modalidade liquidante especial, de que trata o inciso III do art. 23.
+Art. 98-A.  Não se aplica o disposto nos Capítulos VIII e XI e nos arts. 11-C, 36, 37, 37-A, 39, 39-A, 88, inciso II, e 89, incisos I e III, aos participantes iniciadores de que trata o inciso IV do art. 23. (Incluído, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 99.  O Banco Central do Brasil definirá o formato, a periodicidade e as informações a serem prestadas pelos participantes do Pix para fins de monitoramento do cumprimento dos termos deste Regulamento.
+Art. 100.  O desligamento, por qualquer motivo, de participante do Pix não afeta sua responsabilidade por fatos ocorridos durante sua atuação no arranjo, tampouco impede sua submissão aos procedimentos de resolução de disputas ou de aplicação de penalidades relacionados ao período de participação.
+
+
+CAPÍTULO XXII
+DISPOSIÇÕES TRANSITÓRIAS
+
+
+Seção I
+Da iniciação de um Pix
+Art. 101.  Os participantes provedores de conta transacional do Pix não enquadrados no critério de obrigatoriedade de participação, que não disponibilizem aos usuários finais aplicativo acessível por meio de telefone celular, ou que não tenham o aplicativo como o principal canal digital de pagamentos e recebimentos, em termos de quantidade de transações, devem atender o disposto no art. 6º até 1º de junho de 2021, disponibilizando, até essa data, a iniciação de um Pix por meio de seu principal canal digital. (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 1º  Na situação de que trata o caput, o participante pode escolher qual ou quais dos procedimentos de iniciação de um Pix previstos nos incisos I, II e III do art. 12 ofertará aos usuários pagadores. (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+§ 2º  Após o prazo estabelecido no caput, o aplicativo a ser disponibilizado pelo participante aos usuários finais deverá ter sido aprovado no processo de homologação quanto à verificação de aderência das soluções desenvolvidas para os usuários finais, de que trata o inciso IV do § 2º do art. 25.
+Art. 101-A.  A disponibilização do serviço de iniciação de um Pix para a movimentação do saldo de contas do tipo poupança social digital oriundo do recebimento do benefício do Auxílio Emergencial 2021 instituído pela Medida Provisória nº 1.039, de 18 de março de 2021, é facultativo nas hipóteses em que as transações: (Incluído pela Resolução BCB nº 88, de 22/4/2021.)
+I - sejam realizadas até o dia 29 de abril de 2021; ou (Incluído pela Resolução BCB nº 88, de 22/4/2021.)
+II - tenham o objetivo de movimentar os recursos para contas transacionais de titularidade do beneficiário do auxílio. (Incluído pela Resolução BCB nº 88, de 22/4/2021.)
+Art. 101-B.  Até o dia 30 de junho de 2021, o participante que permita a iniciação de um Pix na data de leitura do QR Code associado a um Pix Cobrança para pagamentos com vencimento está dispensado de observar o disposto no parágrafo único do art. 11-D. (Incluído pela Resolução BCB nº 88, de 22/4/2021.)
+Art. 101-C.  A oferta do Pix Agendado não vinculado a um Pix Cobrança para pagamentos com vencimento é obrigatória para participantes provedores de conta transacional a partir de 1º de setembro de 2021. (Redação dada, a partir de 2/8/2021, pela Resolução BCB nº 118, de 22/7/2021, produzindo efeitos, para fins da iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, a partir de 30/8/2021.)
+Art. 101-D.  Poderão ser disponibilizadas, em conformidade com o cronograma estabelecido no âmbito do arcabouço normativo do Open Finance: (Redação dada, a partir de 1º/1/2023, pela Resolução BCB nº 269, de 1º/12/2022.)
+I - a solicitação de um Pix Agendado a participante que presta serviço de iniciação de transação de pagamento, nos termos do art. 9º, inciso II; (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+II - a iniciação de um Pix por meio de QR Code dinâmico ou de QR Code estático por meio de serviço de iniciação de transação de pagamento; e (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+III - a iniciação de um Pix por meio de serviço de iniciação de transação de pagamento, nos casos em que o participante possui todas as informações do usuário recebedor, de que trata o inciso IV do art. 12. (Incluído, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 101-E. (Revogado, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+Art. 101-F. (Revogado, a partir de 28/9/2021, pela Resolução BCB nº 147, de 28/9/2021, produzindo efeitos a partir de 16/11/2021.)
+
+
+Seção II
+Do uso da marca Pix
+Art. 102.  Durante o período anterior à divulgação pelo Banco Central do Brasil da relação das instituições aprovadas no processo de adesão ao Pix, as instituições em processo de adesão podem usar a marca Pix, desde que observado o disposto neste Regulamento e no Manual de Uso da Marca.
+Parágrafo único.  Caso o participante decida voluntariamente cancelar o processo de adesão ao Pix ou caso não seja aprovado nas etapas cadastral ou homologatória do processo de adesão, fica proibido de utilizar a marca Pix para fins comerciais ou promocionais.
+
+
+Seção III
+Da participação
+Art. 103.  A participação no Pix desde o seu lançamento, inclusive na etapa de operação restrita, depende da aprovação do Banco Central do Brasil com relação ao cumprimento dos requisitos das etapas cadastral e homologatória até o dia 16 de outubro de 2020.
+
+
+Seção IV
+Da fase de operação restrita do DICT
+Art. 104.  A fase de operação restrita do DICT ocorrerá durante o período de 5 de outubro de 2020 a 15 de novembro de 2020.
+Parágrafo único.  Durante o período de 5 de outubro de 2020 a 2 de novembro de 2020:
+I - a participação é facultativa, porém condicionada à aprovação da instituição pelo Banco Central do Brasil nas etapas cadastral e homologatória, conforme disposto no art. 103; e
+II - estarão disponíveis as funcionalidades de registro, exclusão, alteração, reivindicação de posse, portabilidade e verificação de sincronismo de chaves Pix, de que tratam os incisos I a VI do art. 54.
+Art. 105.  Durante o período de 3 de novembro de 2020 a 15 de novembro de 2020:
+I - a participação é obrigatória aos participantes que obtiveram aprovação do Banco Central do Brasil nas etapas cadastral e homologatória, conforme disposto no art. 103; e
+II - estarão disponíveis todas as funcionalidades do DICT, conforme disposto no Capítulo XIII.
+Art. 106.  O Banco Central do Brasil detalhará, em ato normativo específico, orientações e determinações complementares ao disposto nesta Seção, inclusive no que diz respeito aos horários diferenciados de funcionamento do DICT durante a fase de operação restrita.
+
+
+Seção V
+Da fase de operação restrita do Pix
+Art. 107.  A fase de operação restrita do Pix ocorrerá durante o período de 3 de novembro de 2020 a 15 de novembro de 2020.
+Art. 108.  Para a fase de operação restrita do Pix, os participantes devem selecionar, entre os usuários finais que neles mantenham conta transacional, aqueles que poderão atuar como usuários pagadores.
+Parágrafo único.  Para a seleção de que trata o caput, a amostra de usuários pagadores deve refletir o perfil de clientes da instituição, sendo recomendada a seleção de:
+I - prepostos da instituição que nela mantenham conta transacional; e
+II - usuários finais que também possuam contas transacionais em outras instituições.
+Art. 109.  Devem participar da fase de operação restrita do Pix todos os participantes, obrigatórios e facultativos, que obtiveram aprovação pelo Banco Central do Brasil nas etapas cadastral e homologatória, conforme disposto no art. 103.
+Art. 110.  Os participantes que, durante a fase de operação restrita, apresentarem problemas operacionais e não conseguirem solucioná-los:
+I - se forem participantes obrigatórios, devem realizar os devidos ajustes e entrar em operação plena no Pix assim que solucionado o problema;
+II - se forem participantes facultativos, devem retomar a etapa de homologação a partir de 1º de dezembro de 2020, para, após realizados os devidos ajustes, entrarem em operação plena no Pix.
+Art. 111.  Os participantes obrigatórios que não obtiveram aprovação do Banco Central do Brasil na etapa de homologação ou que, por outro motivo, não participarem da fase de operação restrita ou, ainda, que se enquadrem na situação de que trata o inciso I do art. 110 ficam sujeitos à aplicação de multa por dia de atraso na entrada em operação, restrita ou plena, no Pix.
+Art. 112.  Os participantes facultativos que obtiveram aprovação do Banco Central do Brasil na etapa de homologação, mas que, por outro motivo, não participarem da fase de operação restrita, ficam sujeitos à aplicação de multa por dia de atraso na participação no Pix.
+Parágrafo único.  O disposto no caput não se aplica à hipótese de que trata o inciso II do art. 110. (Incluído pela Resolução BCB nº 42, de 19/11/2020.)
+
+
+Seção VI
+Da isenção da penalidade de multa prevista no inciso I do art. 93
+(Seção VI incluída pela Resolução BCB nº 42, de 19/11/2020.)
+Art. 113.  Ficam isentas da multa prevista no inciso I do art. 93 as condutas que, em tese, ensejariam a aplicação dessa penalidade, desde que:
+I - sejam praticadas no período compreendido entre 3 de novembro de 2020 e 15 de novembro de 2021; (Redação dada pela Resolução BCB nº 95, de 10/5/2021.)
+II - haja a cessação da prática, em prazo a ser estabelecido pelo Banco Central do Brasil em instrução normativa, comprovada de forma inequívoca pelo participante; e
+III - seja adotada, por iniciativa do participante, medida alternativa, envolvendo, no mínimo, o saneamento da irregularidade, a implementação de medidas que evitem a sua reincidência e a reparação de eventuais danos.
+§ 1º  Não se aplica o disposto no caput nas hipóteses em que o participante incorrer, de forma reiterada, na prática da infração.
+§ 2º  O disposto neste artigo não afasta a possibilidade de aplicação das demais penalidades previstas neste Regulamento.
+
+
+Seção VII
+Do processo de homologação de produtos e serviços no âmbito do Pix
+(Seção VII incluída pela Resolução BCB nº 79, de 18/3/2021.)
+Art. 114.  Os participantes do Pix que atuem como provedores de conta transacional e que já ofertem ou desejem ofertar produtos ou serviços no âmbito do Pix a usuários finais devem realizar os procedimentos necessários para a homologação desses produtos, conforme detalhado em documento específico divulgado pelo Banco Central do Brasil.
+
+
+Seção VIII
+Da comunicação aos titulares de chaves Pix registradas sobre a funcionalidade de que trata o inciso IX do art. 54
+(Seção VIII incluída pela Resolução BCB nº 79, de 18/3/2021.)
+Art. 115.  Os participantes do Pix devem informar, aos usuários finais que tenham chave Pix registrada, sobre a possibilidade de outros usuários finais terem conhecimento acerca da existência de sua chave Pix em decorrência da implementação da funcionalidade de verificação de chaves Pix registradas, de que trata o inciso IX do art. 54.
+§ 1º  O disposto no caput se aplica às seguintes espécies de chave Pix:
+I - número de telefone celular; e
+II - endereço de correio eletrônico (e-mail).
+§ 2º  A informação de que trata o caput deve ser concedida em tempo hábil para que os usuários finais tenham condições de solicitar a exclusão de sua chave Pix, se assim desejarem, antes da implementação da funcionalidade de que trata o inciso IX do art. 54.
+
+
+Seção IX
+Da adequação e do regime de transição para as situações atingidas pelas disposições contidas no art. 90-A na data da publicação da Resolução BCB nº 269, de 1º de dezembro de 2022
+(Seção IX incluída, a partir de 1º/3/2023, pela Resolução BCB nº 293, de 15/2/2023.)
+Art. 116.  Os participantes do Pix que, em 1º de dezembro de 2022, possuíam relação contratual vigente com terceiros alcançados pelo disposto no inciso I do art. 90-A devem adequar suas operações relacionadas ao Pix com vistas a garantir a aderência a este Regulamento, nos termos desta Seção.
+§ 1º  O participante do Pix deverá comunicar ao terceiro a necessidade de adequação de que trata o caput.
+§ 2º  Caso o terceiro detentor de conta transacional seja instituição de pagamento que não se enquadre nos critérios previstos na regulamentação em vigor para ser autorizada a funcionar pelo Banco Central do Brasil ou seja instituição de pagamento com processo de autorização de funcionamento em curso:
+I - aplica-se ao terceiro detentor de conta transacional o disposto no § 1º, inciso I, do art. 24;
+II - o participante que se enquadre nos requisitos para ser um participante responsável, nos termos da Seção III do Capítulo VII deste Regulamento, poderá dar continuidade às soluções ou aos serviços providos pelo terceiro, desde que promova sua adequação às normas deste Regulamento;
+III - o participante que não se enquadre nos requisitos para ser um participante responsável, nos termos da Seção III do Capítulo VII deste Regulamento, não poderá prover os serviços típicos de participante responsável, admitida a possibilidade de prestar soluções e serviços específicos, nos termos do art. 90-D;
+IV - nas hipóteses em que o participante opte por extinguir o contrato com o terceiro ou não cumpra os requisitos para ser um participante responsável, o terceiro poderá buscar outro participante para contratar, em substituição, como participante responsável e antes de solicitar adesão ao Pix, caso em que as partes envolvidas deverão acordar a transição operacional, facultando a possibilidade da manutenção dos serviços aos usuários finais, desde que atendidos os requisitos elencados no inciso VI deste parágrafo;
+V - na situação do inciso IV deste parágrafo, aplica-se o regime de transição de que trata esta Seção ao participante contratado em substituição;
+VI - em qualquer caso, o terceiro que desejar manter a prestação do serviço aos usuários finais deverá:
+a) adequar seus contratos firmados anteriormente a 1º de dezembro de 2022;
+b) contratar participante responsável para viabilizar sua participação no Pix; e
+c) apresentar pedido de adesão ao Pix até 31 de maio de 2023;
+VII - atendidos os requisitos descritos no inciso VI deste parágrafo, será excepcionalmente admitida a continuidade da prestação dos serviços aos usuários finais por parte do terceiro no decurso do seu processo de adesão ao Pix;
+VIII - enquanto durar o processo de adesão do terceiro, o seu participante responsável deve garantir a correta atuação do terceiro com vistas a assegurar a segurança, a eficiência, a confiabilidade, a integridade, o sigilo e a qualidade do serviço de pagamento; e
+IX - caso, em qualquer momento, o terceiro não seja considerado apto a aderir ao Pix, o participante deverá garantir a cessação dos serviços aos usuários finais, bem como sua devida comunicação.
+§ 3º  Ao terceiro detentor de conta transacional que seja instituição de pagamento com processo de autorização de funcionamento em curso, aplica-se o § 6º do art. 3º da Resolução BCB nº 1, de 12 de agosto de 2020.
+§ 4º  Ao terceiro detentor de conta transacional que seja instituição de pagamento que não se enquadre nos critérios previstos na regulamentação em vigor para ser autorizado a funcionar pelo Banco Central do Brasil, aplica-se o § 5º do art. 3º da Resolução BCB nº 1, de 2020.
+§ 5º  Caso o terceiro detentor de conta transacional seja instituição financeira ou instituição de pagamento autorizada a funcionar pelo Banco Central do Brasil:
+I - o participante poderá dar continuidade às soluções ou aos serviços providos pelo terceiro, desde que promova sua adequação às normas deste Regulamento, nos termos do art. 90-D;
+II - aplicam-se os dispositivos previstos nas alíneas “a” e “c” do inciso VI do § 2º e nos incisos VII e IX do § 2º;
+III - deverá apresentar, no pedido de adesão de que trata a alínea “c” do inciso VI do § 2º, o tipo de participação indireta no SPI e o acesso indireto ao DICT, devendo contratar um participante liquidante; e
+IV - enquanto durar o processo de adesão do terceiro, o seu participante liquidante no SPI deve garantir a correta atuação do terceiro com vistas a assegurar a segurança, a eficiência, a confiabilidade, a integridade, o sigilo e a qualidade do serviço de pagamento.
+§ 6º  Nos casos em que o participante optar pela extinção da relação contratual com o terceiro e que a extinção da relação implicar a descontinuidade dos serviços aos usuários finais em conta detida pelo terceiro, ou nos casos em que o terceiro opte pela não adesão ao Pix, o participante deverá garantir a cessação dos serviços aos usuários finais, bem como sua devida comunicação.
+§ 7º  Em qualquer caso, o participante deverá garantir que as informações de identificação dos usuários finais de todas as transações Pix realizadas, desde o início da prestação dos serviços pelo terceiro, sejam devidamente armazenadas pelo participante ou pelo terceiro, garantindo o acesso ao Banco Central do Brasil sempre que requisitado.
+Art. 117.  Não se aplica o regime de transição disposto no art. 116:
+I - nos casos em que o terceiro atuava como emissor de moeda eletrônica em situação que exigisse prévia autorização de funcionamento do Banco Central do Brasil, nos termos da Resolução BCB nº 80, de 25 de março de 2021, sem que houvesse, em 1º de dezembro de 2022, solicitação de autorização para a prestação de serviço de pagamento de que trata o inciso I do art. 9º do referido ato normativo; e
+II - nos casos de que trata o inciso II do art. 90-A.
+Parágrafo único.  Nas situações de que trata o caput, o participante do Pix deve proceder à imediata cessação dos serviços que oferecem acesso ao Pix e deve garantir a devida comunicação aos usuários finais.
+Art. 118.  O Banco Central do Brasil poderá, a qualquer tempo, solicitar aos participantes do Pix relatório detalhado das adequações implementadas em suas relações contratuais de terceirização ou nos contratos de parceria com outro participante.
+Art. 119.  O disposto na alínea “e” do inciso I do art. 5º do Anexo I à Resolução BCB nº 177, de 22 de dezembro de 2021, não se aplica às instituições em regime de transição de que trata esta Seção.
